@@ -18,8 +18,8 @@
 //});
 $(document).ready(function() {
     //feed to parse
-   var feed = "feed.xml";
-   //var feed = "https://www.huffingtonpost.com/section/technology/feed";
+   //var feed = "feed.xml";
+   var feed = "https://www.huffingtonpost.com/section/technology/feed";
     
     $.ajax(feed, {
         accepts:{
