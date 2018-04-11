@@ -19,7 +19,8 @@
 $(document).ready(function() {
     //feed to parse
    //var feed = "feed.xml";
-   var feed = "https://www.huffingtonpost.com/section/technology/feed";
+   //var feed = "https://www.huffingtonpost.com/section/technology/feed";
+   var feed ="https://news.ycombinator.com/rss"
     
     $.ajax(feed, {
         accepts:{
