@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+   xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:atom="http://www.w3.org/2005/Atom"
+   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+   xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+   >
+
+   <channel>
+      <title>TechCrunch</title>
+      <atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+      <link>https://techcrunch.com</link>
+      <description>Startup and Technology News</description>
+      <lastBuildDate>Mon, 09 Apr 2018 14:20:25 +0000</lastBuildDate>
+      <language>en-US</language>
+      <sy:updatePeriod>hourly</sy:updatePeriod>
+      <sy:updateFrequency>1</sy:updateFrequency>
+      <generator>https://wordpress.org/?v=4.9.5</generator>
+
+      <image>
+         <url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+         <title>TechCrunch</title>
+         <link>https://techcrunch.com</link>
+         <width>32</width>
+         <height>32</height>
+      </image> 
+      <site xmlns="com-wordpress:feed-additions:1">136296444</site>	<item>
+         <title>Comma.ai raises $5 million</title>
+         <link>https://techcrunch.com/2018/04/09/comma-ai-raises-5-million/</link>
+         <comments>https://techcrunch.com/2018/04/09/comma-ai-raises-5-million/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 14:09:21 +0000</pubDate>
+         <dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+         <category><![CDATA[Automotive]]></category>
+         <category><![CDATA[Transportation]]></category>
+         <category><![CDATA[Comma.ai]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618737</guid>
+         <description><![CDATA[Transportation startup Comma.ai has raised $5 million, according to a new SEC filing. George Hotz, the founder of Comma.ai, started the company in an attempt to take on Tesla. Initially, Hotz was working on a self-driving car kit called Comma One. The Comma One was an add-on that would&#8217;ve enabled certain cars to have Tesla [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>Transportation startup Comma.ai has raised $5 million, according to a new SEC filing.</p>
+            <p>George Hotz, the founder of <a href="https://comma.ai/">Comma.ai</a>, started the company in an attempt to take on Tesla. Initially, Hotz was working on a self-driving car kit called Comma One. The Comma One was an add-on that would&#8217;ve enabled certain cars to have Tesla Autopilot-like driving assistance capabilities.</p>
+            <p>But <a href="https://beta.techcrunch.com/2016/10/28/comma-ai-cancels-the-comma-one-following-nhtsa-letter/?_ga=2.43399330.641211076.1523224594-1209186414.1516923005">Hotz cancelled that project</a> following a warning letter from the National Highway and Traffic Safety Administration pertaining regulatory compliance. Comma One is now only available as an open-source project.</p>
+            <p>Last July, <a href="https://techcrunch.com/2017/07/07/comma-ai-launches-an-88-universal-car-interface-called-panda/">Hotz launched</a> an $88 universal car interface called Panda. Panda plugs into your car&#8217;s OBD port to collect and record your driving data. At the time, Holtz described it to TC&#8217;s Sarah Buhr as a Fitbit for your car.</p>
+            <p><iframe class='youtube-player' type='text/html' width='640' height='390' src='https://www.youtube.com/embed/VPZtihs3s48?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/comma-ai-raises-5-million/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618737</post-id>	</item>
+      <item>
+         <title>Bots on Twitter share two-thirds of links to popular websites: Pew</title>
+         <link>https://techcrunch.com/2018/04/09/bots-on-twitter-share-two-thirds-of-links-to-popular-websites-pew/</link>
+         <comments>https://techcrunch.com/2018/04/09/bots-on-twitter-share-two-thirds-of-links-to-popular-websites-pew/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 14:00:21 +0000</pubDate>
+         <dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+         <category><![CDATA[Advertising Tech]]></category>
+         <category><![CDATA[Artificial Intelligence]]></category>
+         <category><![CDATA[Social]]></category>
+         <category><![CDATA[bots]]></category>
+         <category><![CDATA[disinformation]]></category>
+         <category><![CDATA[machine learning]]></category>
+         <category><![CDATA[microblogging]]></category>
+         <category><![CDATA[Pew Research Center]]></category>
+         <category><![CDATA[Porn]]></category>
+         <category><![CDATA[Twitter]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618646</guid>
+         <description><![CDATA[It&#8217;s official: Bots are doing a lot of PR grunt work on Twitter &#8212; especially when it comes to promoting porn websites. That perhaps unsurprising conclusion about what automated Twitter accounts are link sharing comes courtesy of a new study by the Pew Research Center which set out to quantify one aspect of bot-based activity in [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>It&#8217;s official: Bots are doing a lot of PR grunt work on <a class="crunchbase-link" href="https://www.crunchbase.com/organization/twitter/" target="_blank" data-type="organization" data-entity="twitter">Twitter <span class="crunchbase-tooltip-indicator"></span></a> &#8212; especially when it comes to promoting porn websites.</p>
+            <p>That perhaps unsurprising conclusion about what automated Twitter accounts are link sharing comes courtesy of a new study by the Pew Research Center which set out to quantify one aspect of bot-based activity in the Twittersphere.</p>
+            <p>Specifically the researchers wanted to know what proportion of tweeted links to popular websites are posted by automated accounts, rather than by human users?</p>
+            <p>The answer they came up with is that around two-thirds of tweeted links to popular websites are posted by bots rather than humans.</p>
+            <p>The researchers say they were interested in trying to understand a bit more about how information spreads on Twitter. Though for this study they didn&#8217;t try to delve directly into more tricky (and sticky) questions about bots &#8212; like whether the information being spread by these robots is actually <a class="crunchbase-link" href="https://www.crunchbase.com/organization/disinformation/" target="_blank" data-type="organization" data-entity="disinformation">disinformation <span class="crunchbase-tooltip-indicator"></span></a>.</p>
+            <p>Pew&#8217;s researchers also didn&#8217;t try to determine whether the automated link PR activity actually led to significant levels of human engagement with the content in question. (Something that can be difficult for external researchers to determine because Twitter does not provide full access to how it shapes the visibility of tweets on its platform, nor data on how individual users are making use of controls and settings that can influence what they see or don&#8217;t on its platform).</p>
+            <p>So, safe to say, many bot-related questions remain to be robustly investigated.</p>
+            <p>But here at least is another tidbit of intel about what automated accounts are up to vis-a-vis major media websites &#8212; although, as always, these results are qualified as &#8216;suspected bots&#8217; as a consequence of how difficult it is to definitively identify whether an online entity is human or not. (Pew used Indiana University&#8217;s <a href="https://botometer.iuni.iu.edu/#!/">Botometer</a> machine learning tool for identifying suspected bots; relying on a score of 0.43 or higher to declare likely automation &#8212; based on a series of their own validation exercises.)</p>
+            <p>Pew&#8217;s top-line conclusion is that suspected automated accounts played a prominent role in tweeting out links to content across the Twitter ecosystem &#8212; with an estimated 66% of all tweeted links to the most popular websites likely posted by automated accounts, rather than human users.</p>
+            <p>The researchers determined website popularity by first conducting an analysis of 1.2 million English-language tweets containing links (pulling random sample tweet data via Twitter&#8217;s streaming API) &#8212; which they boiled down to a list of 2,315 popular sites, i.e. once duplicates and dead links were weeded out.</p>
+            <p>They then categorized these into content domains, with any links that pointed to any other content on Twitter (i.e. rather than externally) collected into a single Twitter.com category.</p>
+            <p>After that they were able to compare how (suspected) bots vs (probable) humans were sharing different categories of content.</p>
+            <p>Below are the results for content being PRed by suspected bots &#8212; as noted above it&#8217;s unsurprisingly dominated by adult content. Though bots were found to be responsive for the majority of link shares to popular websites across the category board. Ergo, robots are already doing a major amount of PR grunt work&#8230;</p>
+            <p><img class="vertical alignnone size-large wp-image-1618685" src="https://techcrunch.com/wp-content/uploads/2018/04/pew.png?w=355" alt="" width="355" height="509" /></p>
+            <p>&nbsp;</p>
+            <p>(Looking at that, a good general rule of thumb seems to be that if a Twitter account is sharing links to porn sites it&#8217;s probably not human. Or, well, it&#8217;s a human&#8217;s account that&#8217;s been hacked.)</p>
+            <p>The researchers also found that a relatively small number of automated accounts were responsible for a substantial share of the links to popular media outlets on Twitter. &#8220;The 500 most-active suspected bot accounts alone were responsible for 22% of all the links to these news and current events sites over the period in which this study was conducted. By contrast, the 500 most-active human accounts were responsible for just 6% of all links to such sites,&#8221; they write.</p>
+            <p>Clearly bots aren&#8217;t held back by human PR weaknesses &#8212; like needing to stop working to eat or sleep.</p>
+            <p>Pew says its analysis also suggests that certain types of news and current events sites appear &#8220;especially likely&#8221; to be tweeted by automated accounts. &#8220;Among the most prominent of these are aggregation sites, or sites that primarily compile content from other places around the web. An estimated 89% of links to these aggregation sites over the study period were posted by bot accounts,&#8221; they write.</p>
+            <p>tl;dr: Bots appear to be less interested in promo-ing original reporting. Or, to put it another way, bot grunt work is often being deployed to try to milk cheap views out of other people&#8217;s content.</p>
+            <p>Another interesting observation: &#8220;Automated accounts also provide a somewhat higher-than-average proportion of links to sites lacking a public contact page or email address for contacting the editor or other staff.</p>
+            <p>&#8220;The vast majority (90%) of the popular news and current events sites examined in this study had a public-facing, non-Twitter contact page. The small minority of sites lacking this type of contact page were shared by suspected bots at greater rates than those with contact pages. Some 75% of links to such sites were shared by suspected bot accounts during the period under study, compared with 60% for sites with a contact page.&#8221;</p>
+            <p>Without reading too much into that finding, it&#8217;s possible to theorize that sites without any public content page or email might be more likely to be hosting disinformation. (Pew&#8217;s researchers don&#8217;t go as far as to join those dots exactly &#8212; but they do note: &#8220;This type of contact information can be used to submit reader feedback that may serve as the basis of corrections or additional reporting.&#8221;)</p>
+            <p>That said, Pew also found political content to be of relatively lower interest to bots vs other types of news and current affairs content &#8212; at least judging by this snapshot of English-language tweets (taken last summer).</p>
+            <p>&#8220;[C]ertain types of news and current events sites receive a lower-than-average share of their Twitter links from automated accounts,&#8221; the researchers write. &#8220;Most notably, this analysis indicates that popular news and current events sites featuring political content have the lowest level of link traffic from bot accounts among the types of news and current events content the Center analyzed, holding other factors constant. Of all links to popular media sources prominently featuring politics or political content over the time period of the study, 57% are estimated to have originated from bot accounts.&#8221;</p>
+            <p>The researchers also looked at political affiliation &#8212; to try to determine whether suspected bots skew left or right in terms of the content they&#8217;re sharing.</p>
+            <p>(To determine the ideological leaning of the content being linked to on Twitter Pew says they used a statistical technique known as correspondence analysis &#8212; examining the media link sharing behavior of publications&#8217; Twitter audience in order to score the content itself on an ideological spectrum ranging from &#8220;very liberal&#8221; to &#8220;most conservative&#8221;.)</p>
+            <p>In fact they found automated accounts posting a greater share of content from sites that have &#8220;ideologically mixed or centrist human audiences&#8221;. At least where popular news and current events sites &#8220;with an orientation toward political news and issues&#8221; are concerned.</p>
+            <p>&#8220;The Center’s analysis finds that suspected autonomous accounts post a higher proportion of links to sites that are primarily shared by human users who score near the center of the ideological spectrum, rather than those shared more often by either a more liberal or a more conservative audience,&#8221; they write. &#8220;Automated accounts share roughly 57% to 66% of the links to political sites that are shared by an ideologically mixed or centrist human audience, according to the analysis.&#8221;</p>
+            <p>Pew adds that right-left differences in the proportion of bot traffic were &#8220;not substantial&#8221;.</p>
+            <p>Although, on this, it&#8217;s worth emphasizing that this portion of the analysis is based on a pretty small sub-set of an already exclusively English-language and US-focused snapshot of the Twittersphere. So reading too much into this portion of the analysis seems unwise.</p>
+            <p>Pew notes: &#8220;This analysis is based on a subgroup of popular news and current events outlets that feature political stories in their headlines or have a politics section, and that serve a primarily U.S. audience. A total of 358 websites out of our full sample of 2,315 popular sites met these criteria.&#8221;</p>
+            <p>Really the study underlines a core truth about Twitter bots: They&#8217;re often used for spam/PR purposes &#8212; to try to drive traffic to other websites. The substance of what they&#8217;re promoting varies, though it can clearly often be adult content.</p>
+            <p>Bots are also often used to try to cheaply drive clicks to a cheap content aggregator or product sites so that external entities can cheaply cash in thanks to boosted ad views and revenue.</p>
+            <p>Political disinformation campaigns may well result in a lower volume of bot-generated spam/PR than porn or content farms. Though the potential damage &#8212; to democratic processes and societal institutions &#8212; is arguably way more serious. As well as being very difficult to quantify.</p>
+            <p>And, well, where the influence of bots is concerned, we still have <a href="https://techcrunch.com/2018/01/26/twitter-accused-of-dodging-brexit-botnet-questions-again/">many more questions</a> than answers.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/bots-on-twitter-share-two-thirds-of-links-to-popular-websites-pew/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618646</post-id>	</item>
+      <item>
+         <title>Over 20 advocacy groups complain to FTC that YouTube is violating children&#8217;s privacy law</title>
+         <link>https://techcrunch.com/2018/04/09/over-20-advocacy-groups-complain-to-ftc-that-youtube-is-violating-childrens-privacy-law/</link>
+         <comments>https://techcrunch.com/2018/04/09/over-20-advocacy-groups-complain-to-ftc-that-youtube-is-violating-childrens-privacy-law/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 14:00:15 +0000</pubDate>
+         <dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[advocacy]]></category>
+         <category><![CDATA[children]]></category>
+         <category><![CDATA[coppa]]></category>
+         <category><![CDATA[family]]></category>
+         <category><![CDATA[kids]]></category>
+         <category><![CDATA[parents]]></category>
+         <category><![CDATA[YouTube]]></category>
+         <category><![CDATA[youtube kids]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618726</guid>
+         <description><![CDATA[A coalition of over 20 child advocacy, consumer and privacy groups filed a complaint with the U.S. Federal Trade Commission asking it to investigate and sanction YouTube for violation of federal children&#8217;s privacy laws. Specifically, the groups say YouTube is violating COPPA, the Children&#8217;s Online Privacy Protection Act, which requires that websites directed at children [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>A coalition of over 20 child <a class="crunchbase-link" href="https://www.crunchbase.com/organization/advocacy/" target="_blank" data-type="organization" data-entity="advocacy">advocacy, <span class="crunchbase-tooltip-indicator"></span></a> consumer and privacy groups filed a complaint with the U.S. Federal Trade Commission asking it to investigate and sanction <a class="crunchbase-link" href="https://www.crunchbase.com/organization/youtube/" target="_blank" data-type="organization" data-entity="youtube">YouTube <span class="crunchbase-tooltip-indicator"></span></a> for violation of federal children&#8217;s privacy laws. Specifically, the groups say YouTube is violating COPPA, the Children&#8217;s Online Privacy Protection Act, which requires that websites directed at children under the age of 13 get parental consent before they&#8217;re allowed to collect children&#8217;s data. YouTube doesn&#8217;t do this, the complaint says.</p>
+            <p>Technically, YouTube&#8217;s site is aimed at those users 13 and older, its <a href="https://redirect.viglink.com/?format=go&amp;jsonp=vglnk_152328204704412&amp;key=ce074976249105acf14d8c9cf69bdcd1&amp;libId=jfs99x6w01003n6p000DLlce7ixun&amp;loc=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fyoutube-faces-complaint-demanding-ftc-probe-over-kids-data%2F&amp;v=1&amp;out=https%3A%2F%2Fwww.youtube.com%2Fstatic%3Ftemplate%3Dterms&amp;ref=https%3A%2F%2Ffeedly.com%2Fi%2Fcategory%2FCan%27t%2520Miss&amp;title=Complaint%20against%20YouTube%20demands%20FTC%20probe%20over%20kids%27%20data%20-%20CNET&amp;txt=YouTube%20is%20not%20for%20children%2C">terms state</a>. That&#8217;s how it gets around having to abide by child privacy laws. But the complaint points to several examples of how the site is clearly targeting younger children, including its hosting of cartoon videos, nursery rhymes, and toy ads. Some of the most popular channels on YouTube are also those aimed at young kids,like ChuChu TV Nursery Rhymes &amp; Kids Songs, which has 15.9 million subscribers and over 10 billion channel views, and LittleBabyBum, which has 14.6 million subscribers and over 14 billion channel views.</p>
+            <p>Plus, advertisers can target kids&#8217; programming through the &#8220;Parenting and Family&#8221; lineup in the Google Preferred ads platform, the complaint states.</p>
+            <p><img class="alignnone size-large wp-image-1618756" src="https://techcrunch.com/wp-content/uploads/2018/04/screen-shot-2018-04-09-at-10-01-19-am.png?w=680" alt="" width="680" height="404" /></p>
+            <p>“Google has acted duplicitously by falsely claiming in its terms of service that YouTube is only for those who are age 13 or older, while it deliberately lured young people into an ad-filled digital playground,” said Jeff Chester of the Center for Digital Democracy, one of the groups who signed the complaint, in a statement. “Just like Facebook, Google has focused its huge resources on generating profits instead of protecting privacy.”</p>
+            <p>The groups have a point. The proliferation of children&#8217;s&#8217; videos on YouTube and the potential harm that came from having them mixed in with more adult-oriented content is what led YouTube to launch the YouTube Kids app several years ago. So it&#8217;s hard to argue, simply, that &#8220;YouTube is not for kids.&#8221;</p>
+            <p>However, even that YouTube Kids has come under fire in recent days because it doesn&#8217;t fully protect children from inappropriate videos, including those that <a href="https://techcrunch.com/2017/11/22/youtube-tightens-rules-on-kid-related-content/">took advantage of YouTube&#8217;s algorithms</a> for suggested videos, in order to attract views to their shady and sometimes downright disturbing content.</p>
+            <p>YouTube has tried to crack down on these videos and demonetize them, but inappropriate content continues to slip through &#8211; most recently, with <a href="http://www.businessinsider.com/youtube-suggested-conspiracy-videos-to-children-using-its-kids-app-2018-3?r=UK&amp;IR=T">conspiracy videos suggested to children</a>. Now the company is reportedly <a href="https://www.buzzfeed.com/alexkantrowitz/youtube-kids-is-going-to-release-a-whitelisted-non?utm_term=.whzbqmog6a#.soW3Db2p09">preparing to release</a> a version of the YouTube Kids app without the algorithmic suggestions.</p>
+            <p>YouTube pointed to the creation the Kids app in response to the groups&#8217; complaint, according to <a href="https://www.cnet.com/news/youtube-faces-complaint-demanding-ftc-probe-over-kids-data/">CNET&#8217;s report</a>, saying the app was built for younger viewers because YouTube itself is &#8220;not for children.&#8221;</p>
+            <p>But the advocacy groups say that&#8217;s not true. The same content is available <em>both</em> on YouTube Kids and YouTube.com, and the latter benefits from the ability to collect data without having to play by the rules.</p>
+            <p>&#8220;Kids have been watching videos on YouTube for years, something the company has known, and profited off of, by targeting content and ads at children under 13. It is time for Google to be completely transparent with all the facts and institute fundamentally responsible new policies moving forward to protect the privacy of kids,&#8221; said James P. Steyer, CEO of Common Sense. &#8220;We fully expect Google to work closely with advocates and reach out to parents with information about parental controls, content, and collection practices on YouTube so parents can make informed choices about what content they allow their kids to access and how to protect their privacy,&#8221; he added.</p>
+            <p>The complaint arrives at a time when there&#8217;s a heightened awareness and concern over the data collection and data privacy practices of major tech companies in the U.S.,as well as how those systems can be compromised by foreign governments. Most notably, the news cycle is focused on Facebook&#8217;s involvement in <a href="https://techcrunch.com/tag/cambridge-analytica/">the Cambridge Analytica scandal </a>which will see CEO Mark Zuckerberg having to testify before Congress. But YouTube, too, has had issues <a href="https://www.theverge.com/2017/10/30/16578810/google-russian-propaganda-disclosure">with Russian trolls spreading propaganda</a> on its site, like they had done on Facebook and Twitter.</p>
+            <p>The combination of the poor data privacy practices across social media, abuse of social media platforms by foreign actors, YouTube&#8217;s misbehaving algorithms, and its other <a href="https://techcrunch.com/2017/11/12/i-watched-1000-hours-of-youtube-kids-content-and-this-is-what-happened/">missteps</a> with <a href="https://techcrunch.com/2017/11/22/youtube-tightens-rules-on-kid-related-content/">regard</a> to its <a href="https://beta.techcrunch.com/2017/11/17/youtube-terminates-exploitive-kids-channel-toyfreaks-among-broader-tightening-of-its-endangerment-policies/?_ga=2.175553570.1270926016.1523280617-1447864512.1494524635">approach</a> with children, may have this complaint taken more seriously than those in the past.</p>
+            <p>Others who signed the complaint include:</p>
+            <p>Campaign for a Commercial-Free Childhood (CCFC), Berkeley Media Studies Group; Center for Media Justice; Common Sense; Consumer Action; Consumer Federation of America; Consumer Federation of California; Consumers Union, the advocacy division of Consumer Reports; Consumer Watchdog; Corporate Accountability; Defending the Early Years; Electronic Privacy Information Center (“EPIC”); New Dream; Obligation, Inc.; Parent Coalition for Student Privacy; Parents Across America; Parents Television Council; Privacy Rights Clearinghouse; Public Citizen; The Story of Stuff Project; TRUCE (Teachers Resisting Unhealthy Childhood Entertainment); and USPIRG.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/over-20-advocacy-groups-complain-to-ftc-that-youtube-is-violating-childrens-privacy-law/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618726</post-id>	</item>
+      <item>
+         <title>Join me for an ICO meetup in New York</title>
+         <link>https://techcrunch.com/2018/04/09/join-me-for-an-ico-meetup-in-new-york/</link>
+         <comments>https://techcrunch.com/2018/04/09/join-me-for-an-ico-meetup-in-new-york/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 13:41:43 +0000</pubDate>
+         <dc:creator><![CDATA[John Biggs]]></dc:creator>
+         <category><![CDATA[Startups]]></category>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[Music]]></category>
+         <category><![CDATA[New York]]></category>
+         <category><![CDATA[r kelly]]></category>
+         <category><![CDATA[singing]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618735</guid>
+         <description><![CDATA[I&#8217;ll be helping build a larger meetup focused on pre-ICO companies in New York on April 23 and I&#8217;d love to see you there. It will be held at Knotel on April 23 at 7pm and will feature a pitch-off with eight startups &#8211; I will write about the best ones &#8211; and two panels [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>I&#8217;ll be helping build a larger meetup focused on pre-ICO companies in New York on April 23 and I&#8217;d love to see you there. It will be held at <a href="https://knotel.com">Knotel</a> on April 23 at 7pm and will feature a pitch-off with eight startups &#8211; I will write about the best ones &#8211; and two panels with some yet-unnamed stars in the space.</p>
+            <p>I&#8217;d love to see you there so please <a href="https://www.eventbrite.com/e/the-first-strike-ico-pitch-off-lab-tickets-44981390550">sign up here</a>. It&#8217;s free for early birds so hurry.</p>
+            <p>The event will be held at 551 Fifth Avenue on the 9th Floor and you can <a href="https://docs.google.com/forms/d/1aCng7kGDfARBch3c7GIrmsS-d6oIUtR1HxAj3fFRRko/edit">sign up to pitch here</a>. I&#8217;ll have more information as we get closer to the event. This is still an experimental format so let&#8217;s see how it works.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/join-me-for-an-ico-meetup-in-new-york/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618735</post-id>	</item>
+      <item>
+         <title>TechCrunch is back in Africa next week!</title>
+         <link>https://techcrunch.com/2018/04/09/techcrunch-is-back-in-africa-next-week/</link>
+         <comments>https://techcrunch.com/2018/04/09/techcrunch-is-back-in-africa-next-week/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 13:35:19 +0000</pubDate>
+         <dc:creator><![CDATA[Samantha Stein]]></dc:creator>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[african diaspora]]></category>
+         <category><![CDATA[Battlefield]]></category>
+         <category><![CDATA[founders]]></category>
+         <category><![CDATA[Startup Battlefield]]></category>
+         <category><![CDATA[Startup Battlefield Africa]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618115</guid>
+         <description><![CDATA[TechCrunch is headed back to Africa to find the next wave of early stage startups tackling big ideas! Last October, TechCrunch held Startup Battlefield in Nairobi, Kenya and featured 15 early stage startups from across the continent. We’re impressed by the Sub-Saharan Africa startup scene and can’t wait to meet the next crop of innovators [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>TechCrunch is headed back to Africa to find the next wave of early stage startups tackling big ideas! Last October, TechCrunch held Startup <a class="crunchbase-link" href="https://www.crunchbase.com/organization/battlefield/" target="_blank" data-type="organization" data-entity="battlefield">Battlefield <span class="crunchbase-tooltip-indicator"></span></a> in Nairobi, Kenya and <a href="https://techcrunch.com/2017/10/09/who-are-the-15-startup-battlefield-africa-companies/">featured 15 early stage startups</a> from across the continent. We’re impressed by the Sub-Saharan Africa startup scene and can’t wait to meet the next crop of innovators in the coming weeks.</p>
+            <p>You can meet Startup Battlefield Director, Samantha Stein, and learn more about TechCrunch’s Startup Battlefield program at one of the upcoming meet and greets. Investors, angels, startup community leaders, and startup <a class="crunchbase-link" href="https://www.crunchbase.com/organization/founders-2/" target="_blank" data-type="organization" data-entity="founders-2">founders <span class="crunchbase-tooltip-indicator"></span></a> can join to learn more about <a href="https://techcrunch.com/startup-battlefield/leaderboard/">TechCrunch’s Startup Battlefield</a>. RSVP below as space is filling up fast!</p>
+            <p>Founders will learn how to apply for Battlefield with a killer application, and investors will learn how to refer companies in their portfolio.</p>
+            <p>Startup Battlefield is TechCrunch’s renowned startup launch competition. The Startup Battlefield alumni community composes almost 750 companies that have raised over $8 billion USD, and produced over 100 successful exits and IPOs.</p>
+            <p style="text-align: center;"><strong>2018 TechCrunch Africa Meet and Greets</strong></p>
+            <h4><strong><em>Lagos, Nigeria</em></strong></h4>
+            <p><strong>April 17th, Tuesday</strong></p>
+            <p>Host: CC Hub<br />
+               <span style="font-size: 1.125rem; letter-spacing: -0.1px;">Time: 1:30pm &#8211; 3:00pm<br />
+            </span><a href="https://www.eventbrite.com/e/meet-and-greet-with-techcrunch-tickets-44974732636">RSVP</a></p>
+            <h4><strong><em>Accra, Ghana</em></strong></h4>
+            <p><strong>April 20th, Friday</strong></p>
+            <p>Host: MEST<br />
+               <span style="font-size: 1.125rem; letter-spacing: -0.1px;">Time: 3:00pm &#8211; 5:30pm<br />
+            </span><a href="https://goo.gl/forms/7Lsc7ZkHp0xaa4Pw2"><span style="font-size: 1.125rem; letter-spacing: -0.1px;">RSVP</span></a></p>
+            <p><strong>April 20th, Thursday</strong></p>
+            <p>Host: Impact Hub<br />
+               <span style="font-size: 1.125rem; letter-spacing: -0.1px;">Time: 6:00pm &#8211; 7:30pm<br />
+            </span><a href="https://docs.google.com/forms/d/e/1FAIpQLSdIfy7A8ke9aruLqfmvA3NnO6ra_8iH9MQf_563h2dsyOnpRQ/viewform"><span style="font-size: 1.125rem; letter-spacing: -0.1px;">RSVP</span></a></p>
+            <p>*For questions, please email battlefield@techcrunch.com</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/techcrunch-is-back-in-africa-next-week/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618115</post-id>	</item>
+      <item>
+         <title>Uber acquires bike-share startup JUMP</title>
+         <link>https://techcrunch.com/2018/04/09/uber-acquires-bike-share-startup-jump/</link>
+         <comments>https://techcrunch.com/2018/04/09/uber-acquires-bike-share-startup-jump/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 13:30:24 +0000</pubDate>
+         <dc:creator><![CDATA[Megan Rose Dickey]]></dc:creator>
+         <category><![CDATA[Exit]]></category>
+         <category><![CDATA[Fundings & Exits]]></category>
+         <category><![CDATA[Transportation]]></category>
+         <category><![CDATA[bikes]]></category>
+         <category><![CDATA[JUMP]]></category>
+         <category><![CDATA[Uber]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618549</guid>
+         <description><![CDATA[Uber has acquired bike-sharing startup JUMP for an undisclosed amount of money. This comes shortly after TechCrunch reported that JUMP was in talks with Uber as well as with investors regarding a potential fundraising round involving Sequoia Capital&#8217;s Mike Moritz. At the time, JUMP was contemplating a sale that exceeded $100 million. We&#8217;re now hearing that [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p><a class="crunchbase-link" href="https://www.crunchbase.com/organization/uber/" target="_blank" data-type="organization" data-entity="uber">Uber <span class="crunchbase-tooltip-indicator"></span></a> has acquired bike-sharing startup JUMP for an undisclosed amount of money. This comes shortly after <a href="https://techcrunch.com/2018/04/03/jump-bikes-weighing-uber-acquisition-investment-offers/">TechCrunch reported that JUMP was in talks</a> with Uber as well as with investors regarding a potential fundraising round involving Sequoia Capital&#8217;s Mike Moritz. At the time, JUMP was contemplating a sale that exceeded $100 million. We&#8217;re now hearing that the final price was closer to $200 million, according to one source close to the situation.</p>
+            <p>JUMP&#8217;s decision to sell to Uber came down to the ability to realize the bike-share company&#8217;s vision at a large scale, and quickly, JUMP CEO Ryan Rzepecki told TechCrunch over the phone. He also said Uber CEO Dara Khosrowshahi&#8217;s leadership impacted his decision.</p>
+            <p>&#8220;I had a chance to spend a couple of evenings with him, and really talk through his vision for the business and our vision, and saw a lot of alignment,&#8221; Rzepecki said.</p>
+            <p>He noted that while Uber had a rocky 2017, he&#8217;s optimistic Uber is on the right track.</p>
+            <p>&#8220;I think it&#8217;s really on the right course now and [Khosrowshahi] believes the way we approach working with cities and our vision for partnering with cities&#8221; aligns with Uber&#8217;s mission, Rzepecki said. &#8220;That was important for me and his desire to do things the right way. This is a great outcome and gives me a chance to bring my entire vision to the entire world.&#8221;</p>
+            <p>Meanwhile, becoming a top urban mobility platform is part of Uber&#8217;s ultimate vision, Khosrowshahi told TechCrunch over the phone. As more people live in cities, there will need to be a broader array of mobility options that work for both customers and cities, he said.</p>
+            <p>&#8220;We see the Uber app as moving from just being about car sharing and car hailing to really helping the consumer get from A to B int he most affordable, most dependable, most convenient way,&#8221; Khosrowshahi said. &#8220;And we think e-bikes are just a spectacularly great product.&#8221;</p>
+            <p>As part of the acquisition, JUMP employees will join Uber&#8217;s team but the bike-share company will carry on as an independent, wholly controlled subsidiary, Rzepecki said.</p>
+            <p>JUMP is best known for operating dockless, pedal-assist bikes. JUMP’s bikes can be legally locked to bike parking racks or the “furniture zone&#8221; of sidewalks, which is where you see things like light poles, benches and utility poles. The bikes also come with integrated locks to secure the bikes.</p>
+            <p><img class="breakout alignnone size-full wp-image-1592724" src="https://techcrunch.com/wp-content/uploads/2018/01/bikeshare_newsroom-2x.png" alt="" width="1024" height="514" /></p>
+            <p>Uber&#8217;s acquisition of JUMP is not too surprising. In January, <a href="https://techcrunch.com/2018/01/31/uber-is-piloting-a-bike-sharing-service-with-jump/">Uber partnered with JUMP to launch Uber Bike</a>, which lets Uber riders book JUMP bikes via the Uber app. The majority of trips, however, still come through the JUMP app, Rzepecki said. For the time being, JUMP&#8217;s app will continue to exist but that may eventually change.</p>
+            <p>&#8220;It&#8217;s our hope the experience will be more deeply integrated into the Uber app moving forward and reflects what Uber has been working on in terms of being a multi-modal platform,&#8221; Rzepecki said.</p>
+            <p>Meanwhile, Uber’s international competitors have made similar moves. India-<a href="https://beta.techcrunch.com/2017/12/01/ola-pedal-bike-sharing-india/" target="_blank" rel="noopener">based ride-hailing startup expanded into bicycles in December</a>. Called Ola Pedal, the service is available on a handful of university campuses in India. Then there’s <a href="https://techcrunch.com/2018/01/21/grab-obike-grab-cycle/">Southeast Asia’s Grab</a> and <a href="http://techcrunch.com/2018/01/17/didi-platform-bike-sharing-threat/">China&#8217;s Didi</a>, which both launched their own respective bike-share services this year. Both Didi and Grab have also invested directly in bike-sharing startups <a href="https://techcrunch.com/2017/07/05/ofo-raises-700m-led-by-alibaba/">Ofo</a> and <a href="https://techcrunch.com/2017/09/27/grab-obike/">OBike</a>, respectively.</p>
+            <p>With JUMP under the ownership of Uber, we likely won&#8217;t see JUMP partner with any of Uber&#8217;s direct competitors, but Rzepecki said other types of partnerships could be interesting.</p>
+            <p>&#8220;I think the idea of us being inside the Lyft app is not necessarily likely but there may be other partnerships that we&#8217;re able to do that are less directly competitive,&#8221; Rzepecki said.</p>
+            <p>In January, JUMP closed a $10 million Series A round led by Menlo Ventures with participation from Sinewave Ventures, Esther Dyson and others. JUMP&#8217;s January funding brought its total amount raised to $11.1 million. That same month, JUMP <a href="https://beta.techcrunch.com/2018/01/09/jump-will-be-the-first-stationless-e-bike-sharing-startup-to-launch-in-sf/" target="_blank" rel="noopener">became the first stationless bicycle service to receive a permit to launch in San Francisco</a>. Since then, JUMP has launched 250 dockless, pedal-assist bikes on the streets of San Francisco. Currently, people take between six to seven rides per day, with an average trip length of 2.6 miles, Rzepecki said.</p>
+            <p>&#8220;We really know we are serving a commute,&#8221; Rzepecki said. &#8220;We&#8217;re serving the morning and evening commute. I think 22 percent of trips are in the morning and 20 percent in the evening commute. We&#8217;ve really been a commuting solution.&#8221;</p>
+            <p>In October, the SFMTA will determine if JUMP can deploy an additional 250 bikes. The SFMTA will make its decision based on an evaluation of the program&#8217;s first nine months. That evaluation, the SFMTA told TechCrunch in January, will entail determining where the city should promote stationless bike-share, the impact stationless bike-share has on the public right-of-way, &#8220;including maintaining accessible pedestrian paths of travel, as well as the enforcement/maintenance burden on city staff.&#8221;</p>
+            <p>JUMP also operates its e-bike network in Washington D.C., and plans to launch in <a href="https://www.sacog.org/post/electric-bike-share-system-launch-2018" target="_blank" rel="noopener">Sacramento</a> and <a href="http://www.providenceri.gov/providence-launch-jump-bikes-new-englands-first-electric-bike-share-system/" target="_blank" rel="noopener">Providence, Rhode Island</a> later this year. Through its software and hardware offerings, it operates via third-parties, like cities, campuses and corporations, in 40 markets including Portland, New Orleans and Atlanta. JUMP is also interested in deploying its bikes in Europe, where it hopes to be by spring of 2019. JUMP has also applied for a permit to operate in New York, <a href="https://techcrunch.com/2018/04/03/nyc-paves-the-way-for-pedal-assist-bike-sharing/">which recently legalized electric, pedal-assist bikes</a>.</p>
+            <p>E-bikes, of course, are not the only way to get around town these days. This year, we&#8217;ve seen a number of startups launch electric scooters. While <a href="https://techcrunch.com/2018/03/28/san-francisco-will-regulate-electric-scooter-sharing/">San Francisco is trying to figure out how to regulate them,</a> people are watching closely to see what comes next.</p>
+            <p>Khosrowshahi is one of those people. He told me he&#8217;s been &#8220;staring at some of them quizzically on the streets.&#8221;</p>
+            <p>Scooters are in an &#8220;odd spot&#8221; due to the lack of regulation, Khosrowshahi said, but Uber will &#8220;look at any and all options&#8221; that &#8220;move in a direction that is city friendly.&#8221;</p>
+            <p><em>Additional reporting by Katie Roof.</em></p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/uber-acquires-bike-share-startup-jump/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618549</post-id>	</item>
+      <item>
+         <title>Benioff: Every VC in Silicon Valley turned us down</title>
+         <link>https://techcrunch.com/2018/04/09/benioff-every-vc-in-silicon-valley-turned-us-down/</link>
+         <comments>https://techcrunch.com/2018/04/09/benioff-every-vc-in-silicon-valley-turned-us-down/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 13:20:03 +0000</pubDate>
+         <dc:creator><![CDATA[Ron Miller]]></dc:creator>
+         <category><![CDATA[Cloud]]></category>
+         <category><![CDATA[Enterprise]]></category>
+         <category><![CDATA[Funding]]></category>
+         <category><![CDATA[fund raising]]></category>
+         <category><![CDATA[Marc Benioff]]></category>
+         <category><![CDATA[Parker Harris]]></category>
+         <category><![CDATA[Salesforce]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618553</guid>
+         <description><![CDATA[In an interview last month Parker Harris and Marc Benioff told the story of how when they first launched the company, they were trying to raise money and nobody would give them a dime. Benioff said he went to every venture capital in Silicon Valley &#8212; and was turned down every single time. This could [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>In <a href="https://www.youtube.com/watch?v=2nC0TX_GCIM">an interview last month</a> Parker Harris and Marc Benioff told the story of how when they first launched the company, they were trying to raise money and nobody would give them a dime. Benioff said he went to every venture capital in Silicon Valley &#8212; and was turned down every single time.</p>
+            <p>This could be a lesson for every startup out there with a vision, who is not able to find conventional financing for your idea. <a class="crunchbase-link" href="https://www.crunchbase.com/organization/salesforce/" target="_blank" data-type="organization" data-entity="salesforce">Salesforce <span class="crunchbase-tooltip-indicator"></span></a> found the money, but it took one on one fundraising, rather than the traditional VC route.</p>
+            <p>The company famously launched in an apartment that Benioff rented, and he put up some of his own money to buy the company&#8217;s first computers. Then it was time to go downtown and ask the VCs for money and it did not go well.</p>
+            <p>&#8220;I had to go hat in hand, like I was a high tech beggar, down to Silicon Valley to raise some money&#8230;And as I go from venture capitalist to venture capitalist to venture capitalist &#8212; and a lot of them are my friends, people I&#8217;ve gone to lunch with &#8212; and each and every one of them said no,&#8221; Benioff said. &#8220;Salesforce was never able to raise a single dollar from a venture capitalist,&#8221; he added.</p>
+            <p>He suggested there were a lot of reasons for that including competitors who would call after his meetings and deliberately sabotage him or people who simply didn&#8217;t believe in the cloud as a vision of the future of software.</p>
+            <p>Whatever the reasons, Salesforce was eventually able to raise over $60 million from private individual investors, before going public in 2004. In the context of today&#8217;s venture capital environment, it is pretty tough to imagine a guy like Benioff not finding one taker, especially when you consider that he was not exactly an unknown quantity. And still no one would write him a check.</p>
+            <p>But this wasn&#8217;t now. It was in the late 1990s when nobody was thinking about cloud computing and the notion of software on the internet was a distant idea. Benioff was imagining something completely different and not one firm had the vision to see what was coming. Today, Salesforce<a href="https://techcrunch.com/2017/08/22/salesforce-slides-past-its-10b-annual-run-rate-target/"> is a $10 billion company</a> and those folks that turned him down have to be wondering what they were thinking.</p>
+            <p>&#8220;When you start something like Salesforce, you want to surround yourself with people who do believe in you, who do believe you&#8217;re going to be successful because you&#8217;re going to have a whole bunch of people who are going to tell you that you&#8217;re not, Benioff said.</p>
+            <p>That&#8217;s something every entrepreneur should remember.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/benioff-every-vc-in-silicon-valley-turned-us-down/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618553</post-id>	</item>
+      <item>
+         <title>Apple releases a red iPhone 8</title>
+         <link>https://techcrunch.com/2018/04/09/apple-releases-a-red-iphone-8/</link>
+         <comments>https://techcrunch.com/2018/04/09/apple-releases-a-red-iphone-8/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 13:16:11 +0000</pubDate>
+         <dc:creator><![CDATA[Romain Dillet]]></dc:creator>
+         <category><![CDATA[Gadgets]]></category>
+         <category><![CDATA[Apple]]></category>
+         <category><![CDATA[iPhone]]></category>
+         <category><![CDATA[iPhone 8]]></category>
+         <category><![CDATA[product red]]></category>
+         <category><![CDATA[red]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618719</guid>
+         <description><![CDATA[Apple is doing it again. The company just unveiled a new version of the iPhone 8 and iPhone 8 Plus. It has a bright red enclosure and a black front. A portion of Apple’s proceeds will fund HIV/AIDS grants from the Global Fund. Other than that, it’s an iPhone 8. You’ll get the exact same [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p><a class="crunchbase-link" href="https://www.crunchbase.com/organization/apple/" target="_blank" data-type="organization" data-entity="apple">Apple <span class="crunchbase-tooltip-indicator"></span></a> is doing it again. The company just <a href="https://www.apple.com/newsroom/2018/04/apple-introduces-iphone-8-and-iphone-8-plus-productred-special-edition/">unveiled</a> a <a href="https://www.apple.com/iphone-8/">new version</a> of the iPhone 8 and iPhone 8 Plus. It has a bright red enclosure and a black front. A portion of Apple’s proceeds will fund HIV/AIDS grants from the Global Fund.</p>
+            <p>Other than that, it’s an iPhone 8. You’ll get the exact same features and components as in other iPhone 8 models. The iPhone 8 is also available in gold, silver and (“space”) gray. Alas, there’s still no rose gold option.</p>
+            <p>When Apple unveiled the <a href="https://techcrunch.com/2017/03/21/iphone-7-red/">red version</a> of the iPhone 7, many people didn’t understand why Apple put white bezels at the front of the device. Red and black seem like a good match. That’s why some people even bought screen protectors with black borders to <a href="http://bgr.com/2017/03/27/red-iphone-7-plus-black-front-screen-protector/">fix</a> this.</p>
+            <p>This year, Apple is switching to black. It’s interesting to see that Apple waits around 6 months before launching red versions of its iPhones. It could be a way to foster sales in the middle of a product cycle.</p>
+            <p>The red iPhone 8 is going to start at $699 with 64GB just like regular iPhone 8 models. There will be 256GB versions too. Pre-orders start tomorrow and you’ll be able to buy it in Apple stores on Friday.</p>
+            <p>For iPhone X users, Apple is launching a dark red leather folio. Apple is also sharing some numbers about its partnership with (PRODUCT)RED. Since 2006, Apple has donated $160 million to the Global Fund through limited edition iPods, iPhones and accessories.</p>
+            <p><img class="breakout alignnone size-full wp-image-1618720" src="https://techcrunch.com/wp-content/uploads/2018/04/iphone8-iphone8plus-product-red_angled-back_041018.jpg" alt="" width="1024" height="807" /></p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/apple-releases-a-red-iphone-8/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618719</post-id>	</item>
+      <item>
+         <title>SNL roasts Mark Zuckerberg on Weekend Update</title>
+         <link>https://techcrunch.com/2018/04/09/snl-roasts-mark-zuckerberg-on-weekend-update/</link>
+         <comments>https://techcrunch.com/2018/04/09/snl-roasts-mark-zuckerberg-on-weekend-update/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 12:49:15 +0000</pubDate>
+         <dc:creator><![CDATA[Jordan Crook]]></dc:creator>
+         <category><![CDATA[Entertainment]]></category>
+         <category><![CDATA[Policy]]></category>
+         <category><![CDATA[Privacy]]></category>
+         <category><![CDATA[Social]]></category>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[Cambridge Analytica]]></category>
+         <category><![CDATA[Facebook]]></category>
+         <category><![CDATA[Mark Zuckerberg]]></category>
+         <category><![CDATA[SNL]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618703</guid>
+         <description><![CDATA[The role of Mark Zuckerberg went to Alex Moffat this weekend on Saturday Night Live&#8217;s Weekend Update. While some bits were harmless and hilarious — &#8220;Poke! Poke! Remember that feature?&#8221; asked Moffat as he poked Jost in the shoulder. &#8220;Poke! It was flirting for cowards.&#8221; — the Facebook CEO probably didn&#8217;t laugh much on Saturday [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>The role of <a class="crunchbase-link" href="https://www.crunchbase.com/person/mark-zuckerberg/" target="_blank" data-type="person" data-entity="mark-zuckerberg">Mark Zuckerberg <span class="crunchbase-tooltip-indicator"></span></a> went to Alex Moffat this weekend on Saturday Night Live&#8217;s Weekend Update.</p>
+            <p>While some bits were harmless and hilarious — &#8220;Poke! Poke! Remember that feature?&#8221; asked Moffat as he poked Jost in the shoulder. &#8220;Poke! It was flirting for cowards.&#8221; — the <a class="crunchbase-link" href="https://www.crunchbase.com/organization/facebook/" target="_blank" data-type="organization" data-entity="facebook">Facebook <span class="crunchbase-tooltip-indicator"></span></a> CEO probably didn&#8217;t laugh much on Saturday night.</p>
+            <p>Alex Moffat, playing Zuckerberg, shrieked with laughter, struggled with eye contact, and rebuked any notion that users&#8217; should have control over their own data on Facebook.</p>
+            <p>When asked if users would be able to delete their own data, the Zuck character simply replied: &#8220;Psh, no! Because it&#8217;s mine. You gave it to me. No backsies.&#8221;</p>
+            <p>This all comes amidst the <a href="https://techcrunch.com/tag/cambridge-analytica/">Cambridge Analytica scandal</a>, wherein third-party apps scraped data of more than 50 million users on behalf of consultancy firm <a class="crunchbase-link" href="https://www.crunchbase.com/organization/cambridge-analytica/" target="_blank" data-type="organization" data-entity="cambridge-analytica">Cambridge Analytica <span class="crunchbase-tooltip-indicator"></span></a>. This has left Facebook trying to recover trust with the public, all while having lost more than $80 billion in market value since the scandal broke.</p>
+            <p>This also comes a few short days before Zuckerberg appears in Washington D.C. for both a <a href="https://techcrunch.com/2018/04/06/zuckerberg-will-also-testify-before-the-senate/">Senate hearing</a> on April 10 and a <a href="https://techcrunch.com/2018/04/04/zuckerberg-will-testify-before-congress-on-april-11/">House Energy and Commerce hearing</a> on April 11.</p>
+            <p>You can watch the full SNL segment below:</p>
+            <p><iframe src="https://www.youtube.com/embed/GqRo9xYKnfA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/snl-roasts-mark-zuckerberg-on-weekend-update/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618703</post-id>	</item>
+      <item>
+         <title>&#8217;90s kids rejoice! Microsoft releases the original Windows 3.0 File Manager source code</title>
+         <link>https://techcrunch.com/2018/04/09/90s-kids-rejoice-microsoft-releases-the-original-windows-3-0-file-manager-source-code/</link>
+         <comments>https://techcrunch.com/2018/04/09/90s-kids-rejoice-microsoft-releases-the-original-windows-3-0-file-manager-source-code/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 12:27:40 +0000</pubDate>
+         <dc:creator><![CDATA[John Biggs]]></dc:creator>
+         <category><![CDATA[Apps]]></category>
+         <category><![CDATA[Mobile]]></category>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[computing]]></category>
+         <category><![CDATA[GitHub]]></category>
+         <category><![CDATA[Microsoft]]></category>
+         <category><![CDATA[microsoft windows]]></category>
+         <category><![CDATA[MIT]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618697</guid>
+         <description><![CDATA[Microsoft has released the source code for the original, 1990s-era File Manager that is so familiar to all of us who were dragging and dropping on Windows 3.0. The code, which is available on Github under the MIT OSS license, will compile under Windows 10. File Manager uses the multiple-document interface or MDI to display [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p><a class="crunchbase-link" href="https://www.crunchbase.com/organization/microsoft/" target="_blank" data-type="organization" data-entity="microsoft">Microsoft <span class="crunchbase-tooltip-indicator"></span></a> has released the source code for the original, 1990s-era File Manager that is so familiar to all of us who were dragging and dropping on Windows 3.0. The code, which is available on <a href="https://github.com/Microsoft/winfile">Github under the MIT OSS license</a>, will compile under Windows 10.</p>
+            <p>File Manager uses the multiple-document interface or MDI to display multiple folders inside one window. This interface style, which changed drastically with later versions of Windows, was the standard for almost a decade of Windows releases.</p>
+            <p>These little gifts to the open source community are definitely fun but not everyone is happy. One <a href="https://news.ycombinator.com/item?id=16791212">Hacker News reader</a> noted that &#8220;Most of the MSFT open source stuff is either trash or completely unmaintained. Only a couple of high profile projects are maintained and they jam opt-out telemetry in if you like it or not (despite hundreds of comments requesting them to go away). Even Scott Hanselman getting involved in one of our tickets got it nowhere. Same strong arming and disregard for customers.&#8221;</p>
+            <p>Ultimately these &#8220;gifts&#8221; to users are definitely a lot of fun and a great example of nostalgia-ware. Let me know how yours compiles by Tweeting me at <a href="http://twitter.com/johnbiggs">@johnbiggs</a>. I&#8217;d love to see it running again.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/90s-kids-rejoice-microsoft-releases-the-original-windows-3-0-file-manager-source-code/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618697</post-id>	</item>
+      <item>
+         <title>Armis raises $30 million Series B as enterprise IoT security heats up</title>
+         <link>https://techcrunch.com/2018/04/09/armis-raises-30-million-series-b-as-enterprise-iot-security-heats-up/</link>
+         <comments>https://techcrunch.com/2018/04/09/armis-raises-30-million-series-b-as-enterprise-iot-security-heats-up/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 12:25:05 +0000</pubDate>
+         <dc:creator><![CDATA[Ron Miller]]></dc:creator>
+         <category><![CDATA[Funding]]></category>
+         <category><![CDATA[Recent Funding]]></category>
+         <category><![CDATA[Security]]></category>
+         <category><![CDATA[Startups]]></category>
+         <category><![CDATA[Armis]]></category>
+         <category><![CDATA[Internet of Things]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618687</guid>
+         <description><![CDATA[When Armis launched in 2015, the company founders looked over the horizon and they saw the Internet of Things requiring a strong security layer. Today, the IoT security startup announced a $30 million Series B. The company has attracted a strong group of venture capitalists. The round was led by Bain Capital Ventures and Red [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>When <a href="https://www.armis.com/">Armis</a> launched in 2015, the company founders looked over the horizon and they saw the Internet of Things requiring a strong security layer. Today, the IoT security startup announced a $30 million Series B.</p>
+            <p>The company has attracted a strong group of venture capitalists. The round was led by Bain Capital Ventures and Red Dot Capital. Sequoia Capital and Tenaya Capital, who were investors in earlier rounds, also participated. Today&#8217;s investment brings the total raised to $47 million.</p>
+            <p>The company secures IoT devices without an agent because it&#8217;s often impossible to put an agent on a connected device like a video camera, light bulb or sensor. That requires some knowledge of these devices and their expected behavior and <a class="crunchbase-link" href="https://www.crunchbase.com/organization/armis/" target="_blank" data-type="organization" data-entity="armis">Armis <span class="crunchbase-tooltip-indicator"></span></a> has created a growing database of more than 5 million devices to track this information.</p>
+            <p>Company co-founder and CEO Yevgeny Dibrov says it involves taking that database and combining it with other information about the environment in which the device operates to understand if it&#8217;s behaving in an expected fashion. When it&#8217;s not they may shut it down and alert the customer, depending on how it&#8217;s configured and how severe the problem appears to be.</p>
+            <p>&#8220;To build and agentless platform, we [look at] existing infrastructure, traffic, wireless infrastructure and network infrastructure, to get a huge amount of traffic information. We analyze and detect and get a fingerprint of every device and asset in the environment and leverage the 5 million devices in the knowledge base,&#8221; he said.</p>
+            <p>It&#8217;s an approach that attracted investor Jeff Williams, operating partner at Bain Capital Ventures. Williams said he has been researching the IoT security market and has been seeing explosive growth in connected devices, which he sees creating a new attack surface for the enterprise. &#8220;Armis’ ability to help enterprises discover, manage and secure these devices is what companies today need to get in front of protecting the new era of IoT. All these forces, plus the pedigree of Armis’ executive team and their impressive research division are setting Armis up for powerful growth,&#8221; he said.</p>
+            <p>And the company is growing quickly with dozens of customers and 50 employees. The startup&#8217;s R&amp;D team is 35 strong and is located in Israel, while the remaining employees with a focus on sales and marketing are located in the US.</p>
+            <p>As the number of IoT devices proliferate in the enterprise, the company will devote a portion of today&#8217;s money to increasing their R&amp;D budget to continue building the database of devices.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/armis-raises-30-million-series-b-as-enterprise-iot-security-heats-up/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618687</post-id>	</item>
+      <item>
+         <title>James Murray from the Impractical Jokers talks about the future of VR</title>
+         <link>https://techcrunch.com/2018/04/09/james-murray-from-the-impractical-jokers-talks-about-the-future-of-vr/</link>
+         <comments>https://techcrunch.com/2018/04/09/james-murray-from-the-impractical-jokers-talks-about-the-future-of-vr/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 11:57:14 +0000</pubDate>
+         <dc:creator><![CDATA[John Biggs]]></dc:creator>
+         <category><![CDATA[Augmented Reality]]></category>
+         <category><![CDATA[Gadgets]]></category>
+         <category><![CDATA[Startups]]></category>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[Virtual Reality]]></category>
+         <category><![CDATA[fiction]]></category>
+         <category><![CDATA[film]]></category>
+         <category><![CDATA[impractical jokers]]></category>
+         <category><![CDATA[IT]]></category>
+         <category><![CDATA[series]]></category>
+         <category><![CDATA[technotopia]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618686</guid>
+         <description><![CDATA[James Murray is a funny man. A producer, actor, and writer, Murray is best known as Murr on the show Impractical Jokers. I spoke to him for a Technotopia interview about the future of TV, VR, and media and he has a lot to say. His dream? To offer immersive experiences to his audiences using [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p>James Murray is a funny man. A producer, actor, and <a href="https://www.harpercollins.com/9780062687883/awakened">writer</a>, Murray is best known as Murr on the show Impractical Jokers. I spoke to him for a <a href="http://techcrunch.com/tag/Technotopia">Technotopia</a> interview about the future of TV, VR, and media and he has a lot to say.</p>
+            <p>His dream? To offer immersive experiences to his audiences using VR, a dream that he thinks is still far off. Until the VR experience is out-of-the-box easy, he said, there isn&#8217;t much hope for the medium. He&#8217;s a funny guy and this is one of my favorite interviews.</p>
+            <p><a href="http://techcrunch.com/tag/technotopia”" target="_blank" rel="noopener">Technotopia</a> is a podcast by John Biggs about a better future. You can subscribe in <a href="http://www.stitcher.com/s?fid=123180&amp;refid=stpr" target="_blank" rel="noopener">Stitcher</a>, <a href="https://audioboom.com/channels/4933416.rss" target="_blank" rel="noopener">RSS</a>, or <a href="pcast://audioboom.com/channels/4933416.rss" target="_blank" rel="noopener">iTunes</a> and <a href="https://audioboom.com/posts/6763654-james-murray-from-the-impractical-jokers-tells-us-the-truth" target="_blank" rel="noopener">listen the MP3 here</a>.</p>
+            <p><iframe style="background-color: transparent; display: block; padding: 0; max-width: 700px;" title="Audioboom player" src="//embeds.audioboom.com/posts/6763654-james-murray-from-the-impractical-jokers-tells-us-the-truth/embed/v4?eid=AQAAACNRy1qGNGcA" width="100%" height="300" frameborder="0" scrolling="no"></iframe></p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/james-murray-from-the-impractical-jokers-talks-about-the-future-of-vr/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618686</post-id>	</item>
+      <item>
+         <title>Facebook urged to make GDPR its &#8220;baseline standard&#8221; globally</title>
+         <link>https://techcrunch.com/2018/04/09/facebook-urged-to-make-gdpr-its-baseline-standard-globally/</link>
+         <comments>https://techcrunch.com/2018/04/09/facebook-urged-to-make-gdpr-its-baseline-standard-globally/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 10:49:03 +0000</pubDate>
+         <dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+         <category><![CDATA[Advertising Tech]]></category>
+         <category><![CDATA[Europe]]></category>
+         <category><![CDATA[Policy]]></category>
+         <category><![CDATA[Privacy]]></category>
+         <category><![CDATA[Social]]></category>
+         <category><![CDATA[center for digital democracy]]></category>
+         <category><![CDATA[data breach]]></category>
+         <category><![CDATA[data portability]]></category>
+         <category><![CDATA[data protection]]></category>
+         <category><![CDATA[data protection law]]></category>
+         <category><![CDATA[data security]]></category>
+         <category><![CDATA[european union]]></category>
+         <category><![CDATA[Facebook]]></category>
+         <category><![CDATA[General Data Protection Regulation]]></category>
+         <category><![CDATA[ireland]]></category>
+         <category><![CDATA[Mark Zuckerberg]]></category>
+         <category><![CDATA[north america]]></category>
+         <category><![CDATA[Norwegian Consumer Council]]></category>
+         <category><![CDATA[Paul-Olivier Dehaye]]></category>
+         <category><![CDATA[personally identifiable information]]></category>
+         <category><![CDATA[privacy]]></category>
+         <category><![CDATA[United Kingdom]]></category>
+         <category><![CDATA[United States]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618652</guid>
+         <description><![CDATA[Facebook is facing calls from consumer groups to make the European Union&#8217;s incoming GDPR data protection framework the &#8220;baseline standard for all Facebook services&#8221;. The update to the bloc&#8217;s data protection framework is intended to strengthen consumers&#8217; control over how their personal data is used by bolstering transparency and consent requirements, and beefing up penalties [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p><a class="crunchbase-link" href="https://www.crunchbase.com/organization/facebook/" target="_blank" data-type="organization" data-entity="facebook">Facebook <span class="crunchbase-tooltip-indicator"></span></a> is facing calls from consumer groups to make the European Union&#8217;s incoming <a href="https://techcrunch.com/2018/01/20/wtf-is-gdpr/">GDPR</a> data protection framework the &#8220;baseline standard for all Facebook services&#8221;.</p>
+            <p>The update to the bloc&#8217;s <a class="crunchbase-link" href="https://www.crunchbase.com/organization/data-protection/" target="_blank" data-type="organization" data-entity="data-protection">data protection <span class="crunchbase-tooltip-indicator"></span></a> framework is intended to strengthen consumers&#8217; control over how their personal data is used by bolstering transparency and consent requirements, and beefing up penalties for data breaches and privacy violations.</p>
+            <p>In an <a href="http://tacd.org/wp-content/uploads/2018/04/TACD-letter-to-Mark-Zuckerberg_final.pdf">open letter</a> addressed to founder Mark Zuckerberg, a coalition of US and EU consumer and privacy rights groups urges the company to &#8220;confirm your company’s commitment to global compliance with the GDPR and provide specific details on how the company plans to implement these changes in your testimony before the US Congress this week&#8221;.</p>
+            <p>The letter is written by the Trans Atlantic Consumer Dialogue, and co-signed by Jeffrey Chester, the executive director of the <a href="https://www.democraticmedia.org">Center for Digital Democracy</a> in the US and Finn Lützow-Holm Myrstad, the head of the digital services section at the Norwegian Consumer Council.</p>
+            <p>&#8220;The GDPR helps ensure that companies such as yours operate in an accountable and transparent manner, subject to the rule of law and the democratic process,&#8221; they write. &#8220;The GDPR provides a solid foundation for data protection, establishing clear responsibilities for companies that collect personal data and clear rights for users whose data is gathered. These are protections that all users should be entitled to no matter where they are located.</p>
+            <p>&#8220;We favor the continued growth of the digital economy and we strongly support innovation. The unregulated collection and use of personal data threatens this future. Data breaches, identity theft, cyber-attack, and financial fraud are all on the rise. The vast collection of personal data has also diminished competition. And the targeting of internet users, based on detailed and secret profiling with opaque algorithms, threatens not only consumer <a class="crunchbase-link" href="https://www.crunchbase.com/organization/privacy/" target="_blank" data-type="organization" data-entity="privacy">privacy <span class="crunchbase-tooltip-indicator"></span></a> but also democratic institutions.&#8221;</p>
+            <p>Zuckerberg caused confusion about Facebook&#8217;s intentions towards GDPR last week when he <a href="https://techcrunch.com/2018/04/04/facebook-gdpr-wont-be-universal/">refused to confirm</a> whether the company would apply the same compliance measures for users in North America &#8212; suggesting domestic and Canadian Facebookers, whose data is processed in the US, rather than Ireland (where its international HQ is based), would be subject to lower privacy standards than all other users (whose data is processed within the EU) after May 25 when GDPR comes into force.</p>
+            <p>In a subsequent <a href="https://techcrunch.com/2018/04/04/zuckerberg-gdpr/">conference call with reporters</a>, Zuckerberg further fogged the issue by saying Facebook intends to &#8220;make all the same controls available everywhere, not just in Europe” &#8212; yet he went on to caveat that by adding: “Is it going to be exactly the same format? Probably not. We’ll need to figure out what makes sense in different markets with different laws in different places.&#8221;</p>
+            <p>Privacy experts were quick to point out that &#8220;controls and settings&#8221; are just one component of the data protection regulation. If Facebook is truly going to apply GDPR universally it will need to give every Facebook user the same high privacy and data protection standards that GDPR mandates for EU citizens &#8212; such as by providing users with the right to view, amend and delete personal data it holds on them; and the right to obtain a copy of this personal data in a portable format.</p>
+            <p>Facebook does currently provide some user data on request &#8212; but this is by no means comprehensive. For example it only provides an <a href="https://techcrunch.com/2018/03/28/facebook-just-lost-another-user-new-zealands-privacy-commissioner/">eight-week snapshot</a> of information to users about which advertisers have told it they have a user&#8217;s consent to process their information.</p>
+            <p>In denying a more fulsome fulfillment of what&#8217;s known in Europe as a &#8216;subject access request&#8217;, the company told one requester, Paul-Olivier Dehaye, the co-founder of PersonalData.IO, that it would involve &#8220;disproportionate effort&#8221; to fulfill his request &#8212; invoking an exception in Irish law in order to circumvent current EU privacy laws.</p>
+            <p>&#8220;[Facebook] are really arguing ‘we are too big to comply with data protection law’,&#8221; Dehaye told a UK parliamentary committee <a href="https://techcrunch.com/2018/03/28/facebook-just-lost-another-user-new-zealands-privacy-commissioner/">last month</a>, discussing how difficult it has been to get the company to divulge information it holds about him. &#8220;The costs would be too high for us. Which is mindboggling that they wouldn’t see the direction they’re going there. Do they really want to make that argument?”</p>
+            <p>Whether that situation changes once GDPR is in force remains to be seen.</p>
+            <p>The new framework at least introduces a regime of much larger penalties for privacy violations &#8212; beefing up enforcement with maximum fines of up to 4% of a company&#8217;s global annual turnover. So the legal risks of trying to circumvent EU data protection law will inflate substantially in just over a month.</p>
+            <p>And Facebook has already made some changes ahead of GDPR coming into force (and likely to try to comply with the new standard) &#8212; <a href="https://techcrunch.com/2018/03/28/facebook-will-cut-off-access-to-third-party-data-for-ad-targeting/">announcing it&#8217;s shutting down a partnership</a> with major offline and online data brokers, for example.</p>
+            <p>&#8220;Consumer groups and privacy groups, human rights groups, civil rights groups will all probably be watching how GDPR is implemented,&#8221; Finn Lützow-Holm Myrstad tells TechCrunch. &#8220;And will be ready to probably go to court to establish that these are fundamental rights for European citizens at the moment. So we&#8217;re definitely going to pay attention.</p>
+            <p>&#8220;But obviously we really want the industry to work with us and to take this seriously because if they don&#8217;t there will be a very negative spiral of court cases and a chilling effect for consumers because they will be afraid of using these services. And they will be caught in the middle because of the lack of options that they have when it comes to these services. And I don&#8217;t think that&#8217;s good for anyone. So we really hope that this is sign of change &#8212; real change &#8212; from Facebook.&#8221;</p>
+            <p>The company remains under huge pressure following revelations about <a href="https://techcrunch.com/2018/04/04/cambridge-analytica-87-million/">how much Facebook user information</a> was passed to a controversial political consultancy, Cambridge Analytica, by a developer using its platform to deploy a quiz app as a vehicle for harvesting personal data without most users&#8217; knowledge or consent.</p>
+            <p>Facebook has said as many as 87M users could have had their data passed to Cambridge Analytica as a result of them or their friends downloading the app in 2014.</p>
+            <p>Zuckerberg is <a href="https://techcrunch.com/2018/04/06/zuckerberg-will-also-testify-before-the-senate/">due to give testimony</a> on this and likely wider issues related to privacy and data protection on his platform to US politicians this week.</p>
+            <p>One line of questioning might well focus on why Facebook has so studiously <a href="https://techcrunch.com/2018/03/24/facebook-was-warned-about-app-permissions-in-2011/">ignored years of warnings</a> that it was not adequately locking down access to user data on its platform.</p>
+            <p>The Norwegian Consumer Council actually filed a complaint about Facebook app permissions all the way back in <a href="https://fil.forbrukerradet.no/wp-content/uploads/2011/08/20100510-ncc-complaint-facebook-zynga-.pdf">2010</a>, writing presciently then: &#8220;Third-party applications should only be given access to the information they need in order to function. Facebook should not be able to renounce responsibility for the way in which third parties collect, store or use personal data. As a facilitator and operator Facebook must take direct responsibility for the applications available on the platform.&#8221;</p>
+            <p>Myrstad says Facebook&#8217;s historical response to these sort of privacy complaints has been &#8220;sadly very, very little&#8221;.</p>
+            <p>On the contrary, he says the company has made it &#8220;<a href="https://techcrunch.com/2018/03/28/it-was-not-consent-it-was-concealment/">really, really difficult</a> to opt out of their tracking, their profiling&#8221;. He also describes Facebook&#8217;s default settings as &#8220;a nightmare&#8221; for people to understand. In terms of GDPR compliance, he says he believes Facebook will need to make changes to their business model and alter default settings &#8212; at very least for users whose data gets processed via Facebook Ireland.</p>
+            <p>&#8220;They will definitely need to have much better consent mechanisms than they do today. Much less take it or leave it,&#8221; says Myrstad. &#8220;I think there will be a discussion also in Europe, and I think it&#8217;s not yet written in stone yet how this will turn out, but we definitely also think that the amount of tracking that Facebook does by default on other websites will need an actual explicit consent &#8212; which there is not today. It&#8217;s not possible to opt out of the tracking.</p>
+            <p>&#8220;You can opt out of behavioral advertising but that&#8217;s not the same as opting out from tracking. And I think the way they do that today is not in line with GDPR&#8230; I think they will actually struggle [to comply]. They&#8217;re already struggling under current law in Europe. So they will need to make some fundamental changes to their business model.&#8221;</p>
+            <p>At the time of writing Facebook had not responded to a request for comment.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/facebook-urged-to-make-gdpr-its-baseline-standard-globally/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618652</post-id>	</item>
+      <item>
+         <title>Following Singapore, Philippines regulator forces Grab to delay closing Uber&#8217;s app</title>
+         <link>https://techcrunch.com/2018/04/09/philippines-regulator-forces-grab-to-delay-closing-ubers-app/</link>
+         <comments>https://techcrunch.com/2018/04/09/philippines-regulator-forces-grab-to-delay-closing-ubers-app/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 10:43:39 +0000</pubDate>
+         <dc:creator><![CDATA[Jon Russell]]></dc:creator>
+         <category><![CDATA[Apps]]></category>
+         <category><![CDATA[Asia]]></category>
+         <category><![CDATA[Collaborative Consumption]]></category>
+         <category><![CDATA[grab]]></category>
+         <category><![CDATA[Southeast Asia]]></category>
+         <category><![CDATA[Uber]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618655</guid>
+         <description><![CDATA[Grab has given the Uber app a stay of execution in yet another market as regulators across Southeast Asia continue to investigate the merger deal announced between the ride-hailing companies last month. Fresh from extending the closure date a week in Singapore, Grab has done the same in the Philippines, a spokesperson confirmed to TechCrunch. [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p><a class="crunchbase-link" href="https://www.crunchbase.com/organization/grabtaxi/" target="_blank" data-type="organization" data-entity="grabtaxi">Grab <span class="crunchbase-tooltip-indicator"></span></a> has given the <a class="crunchbase-link" href="https://www.crunchbase.com/organization/uber/" target="_blank" data-type="organization" data-entity="uber">Uber <span class="crunchbase-tooltip-indicator"></span></a> app a stay of execution in yet another market as regulators across Southeast Asia continue to investigate <a href="https://techcrunch.com/story/uber-is-exiting-southeast-asia/">the merger deal announced between the ride-hailing companies</a> last month.</p>
+            <p><a href="https://techcrunch.com/2018/04/06/grab-delays-shuttering-uber-app-in-southeast-asia/">Fresh from extending the closure date a week in Singapore</a>, Grab has done the same in the Philippines, a spokesperson confirmed to TechCrunch. This extension follows <a href="http://phcc.gov.ph/pcc-orders-uber-app-continue-operations-review-complete/">an order from the Philippine Competition Commission (PCC)</a> made over the weekend, and it now means that Uber&#8217;s app will cease running in the country on April 16.</p>
+            <p>Elsewhere, Grab shuttered the Uber app in its six other markets in <a class="crunchbase-link" href="https://www.crunchbase.com/organization/southeast-asia/" target="_blank" data-type="organization" data-entity="southeast-asia">Southeast Asia <span class="crunchbase-tooltip-indicator"></span></a> today as planned, <a href="https://techcrunch.com/2018/03/25/gruber-official/">two weeks after the merger deal was confirmed</a>. As for UberEats, that app will live on in the region until the end of May, after which it will be folded into GrabFood.</p>
+            <p>It appears that Grab didn&#8217;t count on Southeast Asia&#8217;s being so intent to probe the tie-up.</p>
+            <p><a href="https://techcrunch.com/2018/03/30/singapore-says-uber-grab-deal-may-violate-competition-laws/">The Competition and Consumer Commission of Singapore (CCCS) said</a> last month that it had “reasonable grounds” to suspect that the deal may fall foul of section 54 of Singapore’s Competition Act, while the PCC voiced similar concerns last week.</p>
+            <p><span style="font-size: 1.125rem; letter-spacing: -0.1px;">&#8220;This move by Uber in the Philippine market leads to further substantial concentration of what is, to begin with, an already highly concentrated ride-sharing market. This virtual monopolization of the market by Grab can harm the riding public,&#8221; the organization&#8217;s chairman </span>Arsenio M. Balisacan wrote in a statement.</p>
+            <p>That was countered by Uber, which argued that it is no longer in business in the region.</p>
+            <p>&#8220;Uber exited eight markets, including the Philippines, as of Monday. Now, I look after 10 markets, instead of 18. Our funding is gone. Our people are gone. We don&#8217;t intend to come back to these markets,&#8221; Brooks Entwistle, head of Uber&#8217;s Asia Pacific business, told the PCC at a hearing on Friday, <a href="https://www.rappler.com/business/199625-philippine-competition-commission-uber-grab-separate-operations">according to Rappler</a>.</p>
+            <p>If Uber is gone, who will run the app? That&#8217;s <a href="https://www.rappler.com/nation/199768-ltfrb-uber-shutdown-pcc-review">a valid question raised by the Land Transportation Franchising and Regulatory Board (LTFRB)</a> in the Philippines, which pointed out that consumer safety could be compromised without customer services and other Uber teams.</p>
+            <p>For now, Grab is stepping up and running the Uber app at its own cost, the company has confirmed. That may keep the lights on, but Grab-operating the Uber doesn&#8217;t really address the core issue of the PCC which is competition between two players. On that count, Uber has already left the building.</p>
+            <p>An excerpt from Grab&#8217;s (long) statement to the PCC is below:</p>
+            <blockquote><p>Considering that Uber has exited the region on 25 March and clearly stated during the public hearing its incapacity to fund the operations in the Philippines, the parties have agreed to keep the Uber app operational with Grab bearing the costs, to give drivers and consumers time to adjust to Uber’s departure. In the spirit of cooperating with the PCC, Grab has also agreed to continue to bear the costs of the Uber app extension (from March 25 to April 8) until April 15, 2018. Our understanding from the PCC is that this interim arrangement, which was fully explained to the PCC, is not a breach of its Order.</p>
+               <p>Grab wishes to clarify that, although the Uber app continues to operate, it has limited functionality and little or no support. Grab noted that the LTFRB has expressed concerns pertaining to customer support and safety issues arising from Uber’s limited operations. Grab wishes to stress that this interim arrangement is only for the purposes of satisfying what the PCC appears to require until Grab is able to discuss with the PCC.</p>
+               <p>We hope that the PCC will sit with the parties to hear their sides and give a fair assessment of the concerns expressed by both parties and that any other action taken would take into account the practical hurdles that may lie across the parties’ paths.</p></blockquote>
+            <p>The full read &#8212; for those who like regulatory filings and responses to them &#8212; can be found <a href="https://www.grab.com/ph/press/others/grab-philippines-statement-response-to-pccs-interim-measures-order-case-no-m-2018-001/">here</a>.</p>
+            ]]></content:encoded>
+         <wfw:commentRss>https://techcrunch.com/2018/04/09/philippines-regulator-forces-grab-to-delay-closing-ubers-app/feed/</wfw:commentRss>
+         <slash:comments>0</slash:comments>
+         <post-id xmlns="com-wordpress:feed-additions:1">1618655</post-id>	</item>
+      <item>
+         <title>Leap Motion&#8217;s new AR headset prototype is high-res, low-cost and a little bug-eyed</title>
+         <link>https://techcrunch.com/2018/04/09/leap-motions-new-ar-headset-prototype-is-high-res-low-cost-and-a-little-bug-eyed/</link>
+         <comments>https://techcrunch.com/2018/04/09/leap-motions-new-ar-headset-prototype-is-high-res-low-cost-and-a-little-bug-eyed/#respond</comments>
+         <pubDate>Mon, 09 Apr 2018 10:00:07 +0000</pubDate>
+         <dc:creator><![CDATA[Lucas Matney]]></dc:creator>
+         <category><![CDATA[Augmented Reality]]></category>
+         <category><![CDATA[TC]]></category>
+         <category><![CDATA[leap motion]]></category>
+
+         <guid isPermaLink="false">https://techcrunch.com/?p=1618610</guid>
+         <description><![CDATA[Leap Motion has been in kind of a weird place for quite a while now. They&#8217;ve raised north of $100 million for their tightly focused computer vision work hell-bent on replicating real-time hand movements, like, really well. Their work has all been very convincing in demos, but after eight years, the company itself still feels [&#8230;]]]></description>
+         <content:encoded><![CDATA[<p><a href="https://www.leapmotion.com/">Leap Motion</a> has been in kind of a weird place for quite a while now. They&#8217;ve raised north of $100 million for their tightly focused computer vision work hell-bent on replicating real-time hand movements, like, really well. Their work has all been very convincing in demos, but after eight years, the company itself still feels like a bit of a demo.</p>
+            <p>Today, the SF startup is seemingly expanding its ambitions in the AR/VR space with the announcement of a new augmented reality headset which it likely won&#8217;t productize. Project North Star is just a prototype reference design, but the company is open-sourcing its schematics and, despite the fact that it makes the wearer look like a giant bug, it seems fairly interesting.</p>
+            <p><img class="alignnone size-large wp-image-1618616" src="https://techcrunch.com/wp-content/uploads/2018/04/image2.gif?w=320" alt="" width="320" height="320" /></p>
+            <p>The startup says that the low-cost headset can be built for under $100 at scale. The savings here versus other AR headset systems relies on the simplicity of the optical system which promises a high quality experience in a form factor that&#8217;s hardly low-key but is on-par with the bulk we&#8217;re used to seeing in most of today&#8217;s ugly VR headsets. The dual <span class="s1">1600&#215;1440 LCD displays run at 120 hertz and bring a combined 100 degree field-of-view image into the user&#8217;s periphery. The headset also integrates the necessary hand-tracking sensors of course.</span></p>
+            <p>The scenario basically seems like <a class="crunchbase-link" href="https://www.crunchbase.com/organization/leap-motion/" target="_blank" data-type="organization" data-entity="leap-motion">Leap Motion <span class="crunchbase-tooltip-indicator"></span></a> needed a wide field-of-view headset that integrated the necessary sensors to demo their hand-tracking tech and realized that there wasn&#8217;t anything out their that fit the bill entirely, so they built their own.</p>
+            <p><span class="s1">&#8220;We hope that these designs will inspire a new generation of experimental AR systems that will shift the conversation from what an AR system should look like,<i> </i>to what an AR experience should <i>feel </i>like,&#8221; Leap Motion CTO David Holz wrote in a blog post.</span></p>
+            <p>The company has released a host of very intriguing videos over the past several weeks that highlight the company&#8217;s work on adapting its hand-tracking tech for augmented reality. What they&#8217;ve shown off is deeply convincing.</p>
+            <div class="embed breakout">
+               <blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+                  <p lang="en" dir="ltr">Introducing Virtual Wearables <a href="https://t.co/LPvknKBlnO">pic.twitter.com/LPvknKBlnO</a></p>
+                  <p>&mdash; Keiichi Matsuda (@keiichiban) <a href="https://twitter.com/keiichiban/status/976850288949809154?ref_src=twsrc%5Etfw">March 22, 2018</a></p></blockquote>
+               <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+               <p>Leap Motion has always been a startup that I&#8217;ve liked quite a bit because they focused on something with a tight unwavering gaze and they are clearly far-and-away the best at what they do as a result. Nevertheless, the company is an SDK built for hardware that isn&#8217;t far out of the dev kit phase itself. That couldn&#8217;t be more evident than with this AR thing it&#8217;s building, which looks better than a lot of hardware out there now and &#8212; as a result &#8212; showcases that the AR headset market has years before it reaches any semblance of maturity.</p>
+               ]]></content:encoded>
+            <wfw:commentRss>https://techcrunch.com/2018/04/09/leap-motions-new-ar-headset-prototype-is-high-res-low-cost-and-a-little-bug-eyed/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">1618610</post-id>	</item>
+         <item>
+            <title>A well-fed workforce is a happy workforce &#8212; City Pantry raises £4M for its catering marketplace</title>
+            <link>https://techcrunch.com/2018/04/09/city-pantry-restocks-funding/</link>
+            <comments>https://techcrunch.com/2018/04/09/city-pantry-restocks-funding/#respond</comments>
+            <pubDate>Mon, 09 Apr 2018 08:59:04 +0000</pubDate>
+            <dc:creator><![CDATA[Steve O'Hear]]></dc:creator>
+            <category><![CDATA[Europe]]></category>
+            <category><![CDATA[Fundings & Exits]]></category>
+            <category><![CDATA[Startups]]></category>
+            <category><![CDATA[TC]]></category>
+            <category><![CDATA[City Pantry]]></category>
+
+            <guid isPermaLink="false">https://techcrunch.com/?p=1617988</guid>
+            <description><![CDATA[City Pantry, the office catering marketplace to make it easy to order in food for staff, company events and meetings, has restocked its funding. The London-based startup has raised a new £4 million round led by Octopus Investments with participation from existing investors and Newable Private Investing &#8212; capital it plans to use to expand [&#8230;]]]></description>
+            <content:encoded><![CDATA[<p><a href="https://citypantry.com/">City Pantry</a>, the office catering marketplace to make it easy to order in food for staff, company events and meetings, has restocked its funding.</p>
+               <p>The London-based startup has raised a new £4 million round led by Octopus Investments with participation from existing investors and Newable Private Investing &#8212; capital it plans to use to expand into more cities across the U.K. over the next 18 months.</p>
+               <p>Founded by Stuart Sunderland in 2013, <a class="crunchbase-link" href="https://www.crunchbase.com/organization/city-pantry/" target="_blank" data-type="organization" data-entity="city-pantry">City Pantry <span class="crunchbase-tooltip-indicator"></span></a> set out to improve the catering options open to companies in London. Its marketplace connects local caterers to businesses who need quality food delivered to their offices or to cover events, meeting and regular team meals.</p>
+               <p>When the startup first launched, <a href="https://techcrunch.com/2016/08/03/city-pantry/">Sunderland viewed its main competitors</a> as traditional corporate caterers, sandwich retailers, pizza delivery places, and to a lesser extent, the newer breed of restaurant delivery companies such as Deliveroo and Uber’s UberEATs.</p>
+               <p>“While we’ve all seen the phenomenal growth of online food delivery in B2C over the past few years, food to businesses lags significantly behind,&#8221; he says, noting that legacy relationships with caterers and &#8220;the unique pressures of ordering for larger groups make innovation and progress slower&#8221;.</p>
+               <p>City Pantry claims to now serve over 20,000 meals per week to the employees of more than 500 companies, including Google, Amazon, PayPal, Slack, Spotify and Unilever. The marketplace has on-boarded 300 popular London restaurants and caterers.</p>
+               <p>This, says Sunderland, is evidence that City Pantry is successfully bridging the gap between the type of food options consumers have become accustomed to and what is traditionally available in the world of corporate catering.</p>
+               <p>More broadly, he says the company is tapping into a growing demand from employees for &#8220;greater workplace wellbeing&#8221;. This in turn is seeing employers wanting to offer more than just a good salary.</p>
+               <p>Grant Paul-Florence, Head of Intermediate Capital at Octopus Investments, echoes this sentiment, arguing that City Pantry is &#8220;uniquely placed to satisfy the growing appetite for high quality, hassle-free workplace meals, which organisations are increasingly demanding as they work to build an attractive company<br />
+                  culture&#8221;.</p>
+               <p>Meanwhile, I&#8217;m told the startup has made a couple of significant hires in the last 12 months: Kate Miller (previously McKinsey, Google, and HelloFresh) has joined as CCO, and Sharon Lee (previously DHL, Elster Group, SushiDaily) has joined as COO.</p>
+               ]]></content:encoded>
+            <wfw:commentRss>https://techcrunch.com/2018/04/09/city-pantry-restocks-funding/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">1617988</post-id>	</item>
+         <item>
+            <title>Bitmovin scores $30M Series B for &#8216;next-gen&#8217; online video software</title>
+            <link>https://techcrunch.com/2018/04/09/bitmovin/</link>
+            <comments>https://techcrunch.com/2018/04/09/bitmovin/#respond</comments>
+            <pubDate>Mon, 09 Apr 2018 08:00:58 +0000</pubDate>
+            <dc:creator><![CDATA[Steve O'Hear]]></dc:creator>
+            <category><![CDATA[Europe]]></category>
+            <category><![CDATA[Fundings & Exits]]></category>
+            <category><![CDATA[Startups]]></category>
+            <category><![CDATA[TC]]></category>
+            <category><![CDATA[Bitmovin]]></category>
+
+            <guid isPermaLink="false">https://techcrunch.com/?p=1618362</guid>
+            <description><![CDATA[Bitmovin, the online video software and infrastructure company founded by two of the creators of the MPEG-DASH video streaming standard, has raised $30 million in Series B funding. The round is led by Highland Europe, with participation from existing investors Atomico, Constantia New Business, Dawn Capital, and Y Combinator. The company says the new round [&#8230;]]]></description>
+            <content:encoded><![CDATA[<p><a href="https://bitmovin.com/">Bitmovin</a>, the online video software and infrastructure company founded by two of the creators of the MPEG-DASH video streaming standard, has raised $30 million in Series B funding. The round is led by Highland Europe, with participation from existing investors Atomico, Constantia New Business, Dawn Capital, and Y Combinator.</p>
+               <p>The company says the new round of funding will be used to scale its product R&amp;D, field engineering and sales teams worldwide &#8212; with the aim being to expand its global customer base of TV streaming providers, internet companies and social media companies. The Series B brings total funding for the 2013-founded company and Y Combinator alumnus to $43 million.</p>
+               <p>&#8220;<a class="crunchbase-link" href="https://www.crunchbase.com/organization/bitmovin/" target="_blank" data-type="organization" data-entity="bitmovin">Bitmovin <span class="crunchbase-tooltip-indicator"></span></a> came about as a spin-off from research we did together at the University of Klagenfurt, in Austria. During our PhDs we co-created the MPEG-DASH video streaming standard, which is used by YouTube, Netflix, Hulu, etc. amongst many others today, and which is used in total for more than 50% of the peak internet traffic,&#8221; says Bitmovin CEO Stefan Lederer, who founded the company with CTO Christopher Müller. &#8220;The research evolved into the company, with the help of angel investors including senior people at Cisco, Netflix, Accenture, Drupal and DropBox&#8221;.</p>
+               <p>Two years after Bitmovin turned from academic research into a commercial entity, the startup went through Y Combinator as a member of the summer 2015 cohort, which Lederer says was perfect timing. &#8220;We also won our first U.S. customers at the same time, which then made the move to California a much easier transition to make. Y Combinator really helped us as founders that started from a technical background. They helped us refine our go-to-market strategy and make products out of the technology that we had created&#8221;.</p>
+               <p>Today the company has offices in Austria, London, New York, San Francisco, and Hong Kong. The Bitmovin CEO says there is more to come following this round as the explosion of high quality online video content shows no signs of slowing.</p>
+               <p>The Bitmovin platform &#8212; broadly consisting of video compression, playback and analytics APIs &#8212; feeds into a growing trend that is seeing consumers expect online video to match the quality and user experience of Netflix and Amazon&#8217;s video streaming services. In turn, companies are finding that building an in-house solution can be prohibitively expensive and is prone to becoming obsolete as new codecs come onboard and older video infrastructure technology becomes obsolete.</p>
+               <p>&#8220;Our technology makes it possible to get high quality video to audiences wherever they are and whatever device they may be using &#8211; levelling the playing field with traditional media owners and broadcasters,&#8221; he explains. &#8220;The focus is really on efficiency and performance, making video load faster, stop buffering, increase quality, and reduce the amount of bandwidth one needs to see high quality video.</p>
+               <p>&#8220;We are different from the existing vendors as we are deeply developer and API focussed, with a passion for innovation and disruptive technologies. That’s our background, we are engineers, and we like to build the best products. Thus we’ve been the first ones in many new technologies on the market, setting the bar on performance and efficiency of video streaming&#8221;.</p>
+               <p>On the technology side, recent Bitmovin announcements include the ability to use AI to encode videos more effectively (learning, scene-by-scene how each video is treated so the next one is handled more quickly) and a new video player that can reduce the load time on a typical HTML page by a second.</p>
+               <p>&#8220;We’re also proud to support a new royalty-free codec called AV1, which came out last week (backed by Apple, Bitmovin, Facebook, Google, Microsoft and Samsung, amongst others). It shifts the tectonic plates in video because it’s the first time that online video innovation will be possible without making payments to a pool of incumbent, traditional media and consumer electronics companies. It helps opens the playing field to internet companies to, potentially, take more of the lead in video entertainment. It also means more predictability as companies will not be affected by changes in patent pools,&#8221; says Lederer.</p>
+               <p>To that end, the Bitmovin founder says customers include Sling, Periscope, The New York Times, ProSiebenSat.1, Red Bull Media House, FuboTV, RTL and iflix. &#8220;We are getting a lot of interest in the market, with a lot of new customers. Just last year we had a revenue growth of 3.5x, and we expect similar growth this year, which is great, but at the same time we want to make sure we continue to provide the best service and products to our customers. So we invest heavily in our engineering, solution and support teams, to maintain our DNA as an engineering and developer-first company,&#8221; he adds.</p>
+               ]]></content:encoded>
+            <wfw:commentRss>https://techcrunch.com/2018/04/09/bitmovin/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">1618362</post-id>	</item>
+         <item>
+            <title>China&#8217;s SenseTime, the world&#8217;s highest valued AI startup, raises $600M</title>
+            <link>https://techcrunch.com/2018/04/08/sensetime-raises-600-million/</link>
+            <comments>https://techcrunch.com/2018/04/08/sensetime-raises-600-million/#respond</comments>
+            <pubDate>Mon, 09 Apr 2018 05:33:29 +0000</pubDate>
+            <dc:creator><![CDATA[Jon Russell]]></dc:creator>
+            <category><![CDATA[Artificial Intelligence]]></category>
+            <category><![CDATA[Asia]]></category>
+            <category><![CDATA[Fundings & Exits]]></category>
+            <category><![CDATA[TC]]></category>
+            <category><![CDATA[alibaba]]></category>
+            <category><![CDATA[artifical intelligence]]></category>
+            <category><![CDATA[SenseTime]]></category>
+            <category><![CDATA[Tencent]]></category>
+
+            <guid isPermaLink="false">https://techcrunch.com/?p=1618603</guid>
+            <description><![CDATA[The future of artificial intelligence (AI), the technology that is seen as potentially impacting almost every industry on the planet, is widely acknowledged to be a war between tech firms in America and China. In a notable side-note to that battle, China now has the world&#8217;s highest-valued AI startup after SenseTime, a company founded in [&#8230;]]]></description>
+            <content:encoded><![CDATA[<p>The future of artificial intelligence (AI), the technology that is seen as potentially impacting almost every industry on the planet, is widely acknowledged to be a war between tech firms in America and China.</p>
+               <p>In a notable side-note to that battle, China now has the world&#8217;s highest-valued AI startup after <a href="https://www.sensetime.com/">SenseTime</a>, a company founded in 2014, <a href="https://www.sensetime.com/news/669.html">announced</a> a $600 million Series C investment round. A source with knowledge of discussions told TechCrunch that the round values the company at over $4.5 billion, while it is also raising an extension to this round. That marks a hefty increase on the company&#8217;s <a href="https://www.prnewswire.com/news-releases/chinese-ai-unicorn-sensetime-signs-strategic-investment-agreement-with-qualcomm-300556287.html">most recent $1.5 billion valuation</a> when <a href="https://www.sensetime.com/news/95.html">it raised a $410 million Series B</a> last year.</p>
+               <p><a class="crunchbase-link" href="https://www.crunchbase.com/organization/sensetime/" target="_blank" data-type="organization" data-entity="sensetime">SenseTime <span class="crunchbase-tooltip-indicator"></span></a> CEO Li Xu said the company plans to use the capital to expand its presence overseas and &#8220;widen the scope for more industrial application of AI.&#8221;</p>
+               <p>Beyond the high figures involved &#8212; the round is a record fundraising for an AI company worldwide &#8212; SenseTime&#8217;s investment efforts are notable because of the names that have backed it.</p>
+               <p>Principally that&#8217;s <a class="crunchbase-link" href="https://www.crunchbase.com/organization/alibaba/" target="_blank" data-type="organization" data-entity="alibaba">Alibaba, <span class="crunchbase-tooltip-indicator"></span></a> the $429 billion e-commerce giant, which led this Series C round and is reportedly now SenseTime&#8217;s largest single investor, <a href="https://www.bloomberg.com/news/articles/2017-11-30/alibaba-is-said-to-seek-biggest-stake-in-ai-startup-sensetime">according to Bloomberg</a>.</p>
+               <p>Beyond that, U.S<a href="https://techcrunch.com/2017/11/15/qualcomm-announces-investment-in-mobike/">. chipmaker giant Qualcomm signed up</a> last year &#8212; seemingly as an early participant in this round &#8212; while Singapore&#8217;s sovereign fund Temasek and China&#8217;s largest electronics retailer Suning, <a href="https://beta.techcrunch.com/2015/08/10/alibaba-buys-20-of-chinese-retail-giant-suning-for-4-6b">which has taken investment from Alibaba</a>, entered the round as new backers. Indeed, Suning&#8217;s push to for its store of the future, which was started by that Alibaba investment, uses SenseTime to power its facial recognition payment at staff-less checkouts and also for customer analysis using big data systems.</p>
+               <p>&#8220;SenseTime is doing pioneering work in artificial intelligence. We are especially impressed by their R&amp;D capabilities in deep learning and visual computing. Our business at Alibaba is already seeing tangible benefits from our investments in AI and we are committed to further investment,&#8221; said Joe Tsai, Alibaba&#8217;s executive vice chairman.</p>
+               <p>SenseTime said it has more than 400 customers across a range of verticals including fintech, automotive, fintech, smartphones, smart city development and more that include <a href="https://techcrunch.com/2017/12/07/honda-sensetime-self-driving-car/">Honda</a>, Nvidia, China&#8217;s UnionPay, Weibo, China Merchants Bank, Huawei, Oppo, Vivo and Xiaomi.</p>
+               <p>Perhaps its most visible partner is the Chinese government, which uses its systems for its national surveillance system. SenseTime process data captured by China&#8217;s 170 million CCTV cameras and newer systems which include <a href="https://techcrunch.com/2018/02/08/chinese-police-are-getting-smart-glasses/">smart glasses worn by police offers on the street</a>.</p>
+               <p>China has placed vast emphasis on tech development, with AI one of its key flagposts.</p>
+               <p>A government program aims to make the country the world leader in AI technology by 2030, <a href="https://www.nytimes.com/2018/02/12/technology/china-trump-artificial-intelligence.html">the New York Times reported</a>, by which time it is estimated that the industry could be worth some $150 billion per year. SenseTime&#8217;s continued development fees directly into that ambition.</p>
+               <p>&#8220;AI is really changing every profession and every industry. There’s almost nothing that won’t be touched by AI,&#8221; investor Kai-Fu Lee, formerly the head of Google in China, <a href="https://techcrunch.com/2016/11/06/sinovation-ventures-dr-kai-fu-lee-is-betting-big-on-artificial-intelligence/">said at a TechCrunch event back in 2016</a>.</p>
+               <p>Even two years ago, the potential was evident, with Lee explaining that teaching, medicine and healthcare were obvious areas for disruption.</p>
+               <p>Perhaps the main difference between the state of AI development in the U.S. and China is that, in America, much of the technology is being developed in big tech firms like Amazon and Google. In China, however, companies like SenseTime and its rival Megvii (which develops the Face++ platform) are independent entities that operate with the financial backing of giants like Alibaba.</p>
+               ]]></content:encoded>
+            <wfw:commentRss>https://techcrunch.com/2018/04/08/sensetime-raises-600-million/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">1618603</post-id>	</item>
+         <item>
+            <title>Here&#8217;s the new trailer for Solo: A Star Wars Story</title>
+            <link>https://techcrunch.com/2018/04/08/heres-the-new-trailer-for-solo-a-star-wars-story/</link>
+            <comments>https://techcrunch.com/2018/04/08/heres-the-new-trailer-for-solo-a-star-wars-story/#respond</comments>
+            <pubDate>Mon, 09 Apr 2018 00:46:51 +0000</pubDate>
+            <dc:creator><![CDATA[Greg Kumparak]]></dc:creator>
+            <category><![CDATA[TC]]></category>
+            <category><![CDATA[star wars]]></category>
+
+            <guid isPermaLink="false">https://techcrunch.com/?p=1618557</guid>
+            <description><![CDATA[Yesterday afternoon, word started spreading that a new — and perhaps final — trailer for Solo: A Star Wars Story would land this evening. Sometime during American Idol, they said&#8230; of course without saying exactly when. Turns out: now. You can see it here: I had my doubts after the last trailer, but I&#8217;m loving [&#8230;]]]></description>
+            <content:encoded><![CDATA[<p>Yesterday afternoon, word started spreading that a new — and perhaps final — trailer for <em>Solo: A Star Wars Story</em> would land this evening. Sometime during <em>American Idol</em>, they said&#8230; of course without saying exactly when.</p>
+               <p>Turns out: now.</p>
+               <p><strong>You can see it here:</strong></p>
+               <p><iframe class='youtube-player' type='text/html' width='640' height='390' src='https://www.youtube.com/embed/jPEYpryMp2s?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe></p>
+               <p>I had my doubts after the last trailer, but I&#8217;m <em>loving</em> this one. Donald Glover as young Lando is just perfect.</p>
+               <p>The trailer roll-out for Solo started a bit later than most expected, presumably because of the relatively late director swap out. Ron Howard took over the film&#8217;s metaphorical cockpit in June of last year — about four months into production — after the original directors Phil Lord and Christopher Miller (also the directors of <em>The Lego Movie</em>, <em>Cloudy with a Chance of Meatballs</em>, and <em>21 Jump Street</em>) were taken off the project. Howard&#8217;s changes, while still mostly a mystery, reportedly involved weeks of reshoots.</p>
+               <p>Howard tweeted at the end of March that his edits were &#8220;locked&#8221; &#8211; as of this morning, meanwhile, they were mixing the musical score.</p>
+               <p>Whatever Howard ended up changing, the film will almost certainly end up as yet another point of debate amongst the fanbase. When you&#8217;re tinkering with the backstory of a character like Han Solo (and Lando!), with fans that have watched the originals a billion times, contention is a given.</p>
+               ]]></content:encoded>
+            <wfw:commentRss>https://techcrunch.com/2018/04/08/heres-the-new-trailer-for-solo-a-star-wars-story/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">1618557</post-id>	</item>
+         <item>
+            <title>Tencent and education startup Age of Learning bring popular English-learning app ABCmouse to China</title>
+            <link>https://techcrunch.com/2018/04/08/tencent-and-education-startup-age-of-learning-bring-popular-english-learning-app-abcmouse-to-china/</link>
+            <comments>https://techcrunch.com/2018/04/08/tencent-and-education-startup-age-of-learning-bring-popular-english-learning-app-abcmouse-to-china/#respond</comments>
+            <pubDate>Mon, 09 Apr 2018 00:00:40 +0000</pubDate>
+            <dc:creator><![CDATA[Catherine Shu]]></dc:creator>
+            <category><![CDATA[Apps]]></category>
+            <category><![CDATA[Startups]]></category>
+            <category><![CDATA[TC]]></category>
+            <category><![CDATA[abcmouse]]></category>
+            <category><![CDATA[age of learning]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Education]]></category>
+            <category><![CDATA[kids]]></category>
+            <category><![CDATA[Tencent]]></category>
+
+            <guid isPermaLink="false">https://techcrunch.com/?p=1618481</guid>
+            <description><![CDATA[Tencent is teaming up with Los Angeles-based education company Age of Learning to launch an English education program for kids in China. ABCmouse, Age of Learning’s flagship product, has been localized and will be available as a website and an iOS and Android app in China, with Tencent handling product development, marketing, sales and customer [&#8230;]]]></description>
+            <content:encoded><![CDATA[<p><a href="https://www.tencent.com/en-us/index.html">Tencent</a> is teaming up with Los Angeles-based education company <a href="https://www.ageoflearning.com/">Age of Learning </a>to launch an English education program for kids in China. <a href="https://abcmouse.qq.com/">ABCmouse</a>, Age of Learning’s flagship product, has been localized and will be available as a website and an iOS and Android app in China, with Tencent handling product development, marketing, sales and customer support.</p>
+               <p>The new partnership extends Tencent’s involvement in ed-tech, which already includes a strategic investment in VIPKID, an online video tutoring platform that connects Chinese kids with English teachers and competes with QKids and Dada ABC. ABCmouse, on the other hand, uses videos, books and online activities like games, songs and stories to help kids study English.</p>
+               <p>The Chinese version of ABCmouse includes integration with Tencent’s ubiquitous messenger and online services platform WeChat, which now has more than one billion users, and its instant messaging service QQ, with 783 million monthly active users. This makes it easier for parents to sign up and pay for ABCmouse, because they can use their WeChat or QQ account and payment information. It also allows families to share kids’ English-learning progress on their news feeds or in chats. For example, Jerry Chen, <a class="crunchbase-link" href="https://www.crunchbase.com/organization/age-of-learning/" target="_blank" data-type="organization" data-entity="age-of-learning">Age of Learning&#8217;s <span class="crunchbase-tooltip-indicator"></span></a> president of Greater China, says parents can send video or audio recordings of their children practicing English to grandparents, who can then buy gift subscriptions with one click.</p>
+               <p>Though you probably haven’t heard of it unless you have young kids or work with elementary school-age children, Age of Learning has built a significant presence in online education since it was founded in 2007, thanks mainly to the popularity of ABCmouse in schools, public libraries and Head Start programs. Two years ago, Age of Learning hit unicorn status after <a href="https://techcrunch.com/2016/05/03/age-of-learning-a-quiet-giant-in-education-apps-raised-150m-at-a-1b-valuation-from-iconiq/">raising $150 million at a $1 billion valuation</a> from Iconiq Capital.</p>
+               <p><img class="alignleft wp-image-1618484" src="https://techcrunch.com/wp-content/uploads/2018/04/tencent-abcmouse-student.jpg?w=300" alt="" width="450" height="254" /></p>
+               <p>The partnership lets ABCmouse tap into a major new audience. Chen says there are more than 110 million kids between the ages of three to eight in China and the online English language learning market there is “a several billion dollar market that’s growing rapidly.” He points to a <a href="https://www.iyiou.com/intelligence/report546">recent study </a>by Chinese research agency Yiou Intelligence that says total spending on online English learning programs for children will be 29.41 billion RMB, or about $4.67 billion, this year, and is projected to reach 79.17 billion, or $12.6 billion, by 2022.</p>
+               <p>The localization of ABCmouse will extend to the design of its eponymous cartoon rodent, who has a more stylized appearance in China. Lessons include animations featuring an English teacher and students in an international school classroom and begin with listening comprehension and speaking before moving onto phonics, reading and writing. Tencent-Age of Learning products will also include speech recognition tools to help kids hone their English pronunciation.</p>
+               <p>In an email, Jason Chen, Tencent’s general manager of online education, said that the company “reviewed several companies through an extensive research process, and it became clear that ABCmouse had the most engaging and effective online English self-learning curriculum and content for children. Age of Learning puts learning first, and that commitment to educational excellence made them a perfect fit for our online English language learning business.”</p>
+               <p>&nbsp;</p>
+               ]]></content:encoded>
+            <wfw:commentRss>https://techcrunch.com/2018/04/08/tencent-and-education-startup-age-of-learning-bring-popular-english-learning-app-abcmouse-to-china/feed/</wfw:commentRss>
+            <slash:comments>0</slash:comments>
+            <post-id xmlns="com-wordpress:feed-additions:1">1618481</post-id>	</item>
+      </channel>
+   </rss>
