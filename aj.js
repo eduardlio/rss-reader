@@ -8,7 +8,13 @@ $(document).ready(function(){
       var id = thing.target.id;
       var url = urls[id];
       getFeed(id, url);
+      $("#fb_toggle").prop("checked", false);
    });
+   if($("#fb_toggle").checked ){
+      $(".fb").hide();
+   } else {
+      $(".fb").show();
+   }
 });
 function getFeed(id, url){
    var feed = PROXY + url;
@@ -19,13 +25,18 @@ function getFeed(id, url){
          $(".output").html("");
          doc.querySelectorAll("item").forEach( (item) => {
             var title = getQuerySelectorText(item, "title");
+            var fbRegexp = /facebook|(\sfb\s?)/gi;
+            var fb = title.match(fbRegexp);
             var link = getQuerySelectorText(item, "link");
-            $(".output").append("<a href='"+link+"' class='news-title'>"+title+"</h1>");
-            $(".output").append("<br>");
-            if(id=="hp"){
-               var desc = getQuerySelectorText(item, "description");
-               $(".output").append("<p class='news-desc'>"+desc+"</p>");
+            var domClass= (fb==null) ? "news-title" : "news-title fb";
+            $(".output").append(
+               "<a href='"+link+"' class='"+domClass+"' target='_blank'>"+title+"</h1>");
+            if(id=="hn"){
+               var comLink = getQuerySelectorText(item, "description");
+               $(".output").append(comLink);
+               $(".output").append("<br>");
             }
+            $(".output").append("<br></div>");
          });
       })
    }).catch( () => console.error("error occurred"));
